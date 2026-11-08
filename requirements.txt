@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+ipykernel
+tqdm
+scikit-learn
+rank_bm25
+sentence-transformers
+faiss-cpu
+streamlit
+python-dotenv
+requests
