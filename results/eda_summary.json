@@ -1,0 +1,30 @@
+{
+  "sizes": [
+    {
+      "split": "train",
+      "questions": 6251,
+      "documents": 2110,
+      "chunks": 61146
+    },
+    {
+      "split": "dev",
+      "questions": 883,
+      "documents": 299,
+      "chunks": 8774
+    },
+    {
+      "split": "test",
+      "questions": 1147,
+      "documents": 380,
+      "chunks": 10966
+    }
+  ],
+  "chunks_per_doc_mean": 28.97914691943128,
+  "median_question_words": 15.0,
+  "multi_step_pct": 40.537513997760364,
+  "evidence_kind_pct": {
+    "table only": 62.7,
+    "text only": 23.3,
+    "text + table": 13.9
+  }
+}
