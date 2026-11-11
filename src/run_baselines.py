@@ -86,6 +86,6 @@ for r in recs:
     print("PRED :", r["pred"])
     print()
 
-    print(f"Tokens used this run: {llm_mod.USED_TOKENS}")
-    print(f"Average per question: {llm_mod.USED_TOKENS / max(len(recs), 1):.0f}"
-      f" (based on up to 5 shown; see total / questions run)")
+    n_new = len(questions) - len(done)
+    print(f"Tokens used this run: {llm_mod.USED_TOKENS} for {n_new} new questions"
+      f" ({llm_mod.USED_TOKENS / max(n_new, 1):.0f} per question)")
