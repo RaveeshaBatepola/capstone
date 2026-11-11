@@ -12,6 +12,7 @@ load_dotenv()
 
 MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 _client = None
+USED_TOKENS = 0
 
 
 def _get_client():
@@ -33,7 +34,10 @@ def _call(prompt, with_effort=True):
     )
     if with_effort:
         kwargs["reasoning_effort"] = "low"   # keeps token use down
-    resp = _get_client().chat.completions.create(**kwargs)
+        global USED_TOKENS
+        resp = _get_client().chat.completions.create(**kwargs)
+        if getattr(resp, "usage", None):
+            USED_TOKENS += resp.usage.total_tokens
     return (resp.choices[0].message.content or "").strip()
 
 

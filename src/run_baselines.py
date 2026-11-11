@@ -7,6 +7,7 @@ from pathlib import Path
 
 from tqdm import tqdm
 
+import src.llm as llm_mod
 from src.llm import generate
 from src.prompts import LLM_ONLY_PROMPT, RAG_PROMPT, format_evidence
 
@@ -84,3 +85,7 @@ for r in recs:
     print("GOLD :", r["gold_answer"], "| exe_ans:", r["gold_exe_ans"])
     print("PRED :", r["pred"])
     print()
+
+    print(f"Tokens used this run: {llm_mod.USED_TOKENS}")
+    print(f"Average per question: {llm_mod.USED_TOKENS / max(len(recs), 1):.0f}"
+      f" (based on up to 5 shown; see total / questions run)")
