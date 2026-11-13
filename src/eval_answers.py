@@ -40,24 +40,19 @@ def parse_num(s):
 
 
 def numeric_match(pred, gold_ans, exe_ans):
+    """Pred, rounded to the gold answer's own precision, equals the gold answer.
+    A percentage written as a fraction (0.0474 for 4.74%) is also accepted."""
     p, g = parse_num(pred), parse_num(gold_ans)
     if p is None or g is None:
         return norm(pred) == norm(gold_ans)       # non-numeric gold, e.g. yes/no
     pv, _, pp = p
     gv, gd, gp = g
-    pct = pp or gp
-    tol = 0.5 * 10 ** (-gd) + 1e-9               # precision of the GOLD answer
-    targets = [gv]
-    try:
-        e = float(exe_ans)
-        targets.append(e)
-        if pct:
-            targets.append(e * 100)
-    except (TypeError, ValueError):
-        pass
-    scales = [1, 100, 0.01] if pct else [1]
-    return any(abs(pv * sc - tv) <= tol for sc in scales for tv in targets)
-
+    tol = 0.5 * 10 ** (-gd) + 1e-9
+    if abs(pv - gv) <= tol:
+        return True
+    if gp and not pp and abs(pv * 100 - gv) <= tol:
+        return True
+    return False
 
 def token_f1(pred, gold):
     a, b = norm(pred).split(), norm(gold).split()
@@ -168,6 +163,25 @@ for m in ["dense_rag", "hybrid_rag"]:
         right = int(miss[f"{m}_num"].sum())
         print(f"   evidence missing (n={len(miss)}): abstained {abst}, "
               f"answered wrong {wrong}, answered right {right}")
+
+
+
+
+# ---------- sanity check: LLM-only 'matches' that EM does not count ----------
+lenient = df[(df["llm_only_num"] == 1) & (df["llm_only_em"] == 0)]
+print(f"\n=== LLM-only: {len(lenient)} numeric matches that EM rejects (up to 12 shown) ===")
+for _, r in lenient.head(12).iterrows():
+    print(f"   gold {r['gold']!s:>10}   pred {r['llm_only_pred']!s}")
+
+# ---------- false abstentions: refused although all gold evidence was retrieved ----------
+print("\n=== False abstentions (evidence fully retrieved but system refused) ===")
+for m in ["dense_rag", "hybrid_rag"]:
+    fa = int(((df[f"{m}_abstain"] == 1) & (df[f"{m}_full_hit"] == 1)).sum())
+    print(f"{NAMES[m]}: {fa} of {int(df[f'{m}_full_hit'].sum())} questions with full evidence")
+
+
+
+
 # ---------- chart ----------
 ax = sdf.set_index("config")[["EM %", "Numeric match %", "F1 %"]].plot(
     kind="bar", figsize=(7.5, 4.5), rot=0)
