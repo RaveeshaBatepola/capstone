@@ -54,6 +54,22 @@ def numeric_match(pred, gold_ans, exe_ans):
         return True
     return False
 
+
+def rounded_match(pred, gold_ans, exe_ans):
+    """Strict match, OR pred has >= 1 decimal and equals gold rounded to pred's precision."""
+    if numeric_match(pred, gold_ans, exe_ans):
+        return True
+    p, g = parse_num(pred), parse_num(gold_ans)
+    if p is None or g is None:
+        return False
+    pv, pdec, _ = p
+    gv, gd, _ = g
+    if pdec < 1 or pdec >= gd:
+        return False
+    return abs(round(gv, pdec) - pv) < 1e-9
+
+
+
 def token_f1(pred, gold):
     a, b = norm(pred).split(), norm(gold).split()
     if not a or not b:
@@ -84,6 +100,7 @@ for i in ids:
         row[f"{m}_pred"] = pred
         row[f"{m}_em"] = int(norm(pred) == norm(rec["gold_answer"]))
         row[f"{m}_num"] = int(numeric_match(pred, rec["gold_answer"], rec["gold_exe_ans"]))
+        row[f"{m}_rnd"] = int(rounded_match(pred, rec["gold_answer"], rec["gold_exe_ans"]))
         row[f"{m}_f1"] = token_f1(pred, rec["gold_answer"])
         row[f"{m}_abstain"] = int(is_abstain(pred))
         if m != "llm_only":
@@ -100,6 +117,7 @@ for m in MODES:
         "config": NAMES[m],
         "EM %": round(100 * df[f"{m}_em"].mean(), 1),
         "Numeric match %": round(100 * df[f"{m}_num"].mean(), 1),
+        "Rounded match %": round(100 * df[f"{m}_rnd"].mean(), 1),
         "F1 %": round(100 * df[f"{m}_f1"].mean(), 1),
         "abstained": int(df[f"{m}_abstain"].sum()),
     })
