@@ -43,23 +43,20 @@ def numeric_match(pred, gold_ans, exe_ans):
     p, g = parse_num(pred), parse_num(gold_ans)
     if p is None or g is None:
         return norm(pred) == norm(gold_ans)       # non-numeric gold, e.g. yes/no
-    pv, pd_, pp = p
+    pv, _, pp = p
     gv, gd, gp = g
     pct = pp or gp
-    targets = [(gv, min(pd_, gd))]
+    tol = 0.5 * 10 ** (-gd) + 1e-9               # precision of the GOLD answer
+    targets = [gv]
     try:
         e = float(exe_ans)
-        targets.append((e, pd_))
+        targets.append(e)
         if pct:
-            targets.append((e * 100, pd_))
+            targets.append(e * 100)
     except (TypeError, ValueError):
         pass
     scales = [1, 100, 0.01] if pct else [1]
-    for sc in scales:
-        for tv, d in targets:
-            if abs(pv * sc - tv) <= 0.5 * 10 ** (-d) + 1e-9:
-                return True
-    return False
+    return any(abs(pv * sc - tv) <= tol for sc in scales for tv in targets)
 
 
 def token_f1(pred, gold):
@@ -158,6 +155,19 @@ for _, r in bad.iterrows():
           "| evidence fully retrieved:", bool(r["hybrid_rag_full_hit"]))
     print()
 
+# ---------- abstention breakdown ----------
+print("\n=== Abstention breakdown (RAG configurations) ===")
+for m in ["dense_rag", "hybrid_rag"]:
+    ans = df[df[f"{m}_abstain"] == 0]
+    print(f"{NAMES[m]}: answered {len(ans)}/{len(df)}; "
+          f"numeric match among answered: {100 * ans[f'{m}_num'].mean():.1f}%")
+    miss = df[df[f"{m}_full_hit"] == 0]
+    if len(miss):
+        abst = int(miss[f"{m}_abstain"].sum())
+        wrong = int(((miss[f"{m}_abstain"] == 0) & (miss[f"{m}_num"] == 0)).sum())
+        right = int(miss[f"{m}_num"].sum())
+        print(f"   evidence missing (n={len(miss)}): abstained {abst}, "
+              f"answered wrong {wrong}, answered right {right}")
 # ---------- chart ----------
 ax = sdf.set_index("config")[["EM %", "Numeric match %", "F1 %"]].plot(
     kind="bar", figsize=(7.5, 4.5), rot=0)
