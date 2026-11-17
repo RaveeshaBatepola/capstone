@@ -11,7 +11,8 @@ from src.retriever import Retriever
 RRF_K = 60
 KS = [1, 3, 5, 10, 20]
 THRESHOLDS = [0.20, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50]
-split = "dev"
+import sys
+split = sys.argv[1] if len(sys.argv) > 1 else "dev"
 
 r = Retriever(split)
 with open(f"data/processed/questions_{split}.jsonl", encoding="utf-8") as f:
@@ -95,7 +96,7 @@ df["method"] = pd.Categorical(df["method"], ["BM25", "Dense", "Hybrid (RRF)"])
 df = df.sort_values(["setting", "method"])
 print("\n=== Retrieval: BM25 vs Dense vs Hybrid (dev) ===")
 print(df.to_string(index=False))
-df.to_csv("results/hybrid_retrieval_dev.csv", index=False)
+df.to_csv(f"results/hybrid_retrieval_{split}.csv", index=False)
 
 # ---------- threshold table ----------
 good, bad = np.array(good_scores), np.array(bad_scores)
@@ -115,7 +116,7 @@ for t in THRESHOLDS:
 tdf = pd.DataFrame(trows)
 print("\n=== Threshold calibration ===")
 print(tdf.to_string(index=False))
-tdf.to_csv("results/threshold_calibration_dev.csv", index=False)
+tdf.to_csv(f"results/threshold_calibration_{split}.csv", index=False)
 
 plt.figure(figsize=(7, 4))
 plt.hist(good, bins=40, alpha=0.6, label="right report")
@@ -126,4 +127,4 @@ plt.title("Evidence-score distribution (dev)")
 plt.legend()
 plt.tight_layout()
 plt.savefig("results/figures/08_threshold_calibration.png", dpi=150)
-print("\nsaved results/figures/08_threshold_calibration.png")
+print(f"\nsaved results/figures/08_threshold_calibration_{split}.png")

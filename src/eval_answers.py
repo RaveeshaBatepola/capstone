@@ -6,7 +6,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-SPLIT = "dev"
+import sys
+SPLIT = sys.argv[1] if len(sys.argv) > 1 else "dev"
 MODES = ["llm_only", "dense_rag", "hybrid_rag"]
 NAMES = {"llm_only": "LLM only", "dense_rag": "Dense RAG", "hybrid_rag": "Hybrid RAG"}
 NUM = re.compile(r"-?\d+(?:\.\d+)?")

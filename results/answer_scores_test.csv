@@ -1,0 +1,4 @@
+config,EM %,Numeric match %,Rounded match %,F1 %,abstained
+LLM only,3.3,3.3,3.3,3.3,0
+Dense RAG,33.3,59.3,61.3,33.3,18
+Hybrid RAG,34.7,58.0,59.3,34.7,17
