@@ -1,0 +1,915 @@
+================================================================================
+ITEM 1    id: BLK/2015/page_124.pdf-2
+QUESTION: what is the value of rent expense and certain office equipment expense under lease agreements , between 2013 and 2015 ? in million $ .
+ANSWER GIVEN: 405
+MODEL'S OWN REASONING (judge against the passages, not this):
+136 + 132 + 137 = 405  
+
+FINAL ANSWER: 405
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] rent expense and certain office equipment expense under lease agreements amounted to $ 136 million , $ 132 million and $ 137 million in 2015 , 2014 and 2013 , respectively .
+  [2] commitments and contingencies operating lease commitments the company leases its primary office spaces under agreements that expire through 2035 .
+  [3] the fair value of the remaining aggregate contingent payments at december 31 , 2015 is not significant to the condensed consolidated statement of financial condition and is included in other liabilities. .
+  [4] the 2016 of amount is $ 134
+  [5] the 2017 of amount is 133
+  [6] in september 2007 , the company issued $ 700 million in aggregate principal amount of 6.25% ( 6.25 % ) senior unsecured and unsubordinated notes maturing on september 15 , 2017 ( the 201c2017 notes 201d ) .
+  [7] at december 31 , 2015 , the company had $ 179 million of various capital commitments to fund sponsored investment funds , including consolidated vies .
+  [8] in addition to the capital commitments of $ 179 million , the company had approximately $ 38 million of contingent commitments for certain funds which have investment periods that have expired .
+  [9] the 2018 of amount is 131
+  [10] the total of amount is $ 1203
+
+================================================================================
+ITEM 2    id: AMT/2007/page_29.pdf-1
+QUESTION: what is the square footage of properties in massachusetts?\\n\\n
+ANSWER GIVEN: 91300
+MODEL'S OWN REASONING (judge against the passages, not this):
+13900 + 19600 + 57800 = 91300  
+FINAL ANSWER: 91300
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the southborough ma of function is information technology data center ; the southborough ma of size ( square feet ) is 13900 ; the southborough ma of property interest is leased
+  [2] properties our principal offices are located in boston , southborough and woburn , massachusetts ; atlanta , georgia ; cary , north carolina ; mexico city , mexico ; and sao paulo , brazil .
+  [3] ( 1 ) the facility in woburn contains a total of 163000 square feet of space .
+  [4] the boston ma of function is corporate headquarters us tower division headquarters and american tower international headquarters ; the boston ma of size ( square feet ) is 19600 ; the boston ma of property interest is leased
+  [5] the sao paulo brazil of function is brazil headquarters ; the sao paulo brazil of size ( square feet ) is 5200 ; the sao paulo brazil of property interest is leased
+  [6] location | function | size ( square feet ) | property interest
+  [7] approximately 57100 square feet of space is occupied by our lease administration office and our broadcast division , and we lease the remaining space to unaffiliated tenants .
+  [8] the woburn ma of function is us tower division lease administration site leasing management and broadcast division headquarters ; the woburn ma of size ( square feet ) is 57800 ; the woburn ma of property interest is owned ( 1 )
+  [9] depending on the height of the tower , a lattice tower site for a wireless communications tower can consist of a tract of land of 10000 square feet for a rural site or less than 2500 square feet for a metropolitan site .
+  [10] the cary north carolina of function is us tower division new site development site operations and structural engineering services headquarters ; the cary north carolina of size ( square feet ) is 17500 ; the cary north carolina of property interest is leased
+
+================================================================================
+ITEM 3    id: AMT/2007/page_29.pdf-3
+QUESTION: what is the range of height of monopole towers , in feet?
+ANSWER GIVEN: 50-200
+MODEL'S OWN REASONING (judge against the passages, not this):
+FINAL ANSWER: 50-200
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] there are three principal types of towers : guyed , self- supporting lattice , and monopole .
+  [2] a monopole tower site of the kind typically used in metropolitan areas for a wireless communications tower can consist of a tract of land of less than 2500 square feet. .
+  [3] depending on the height of the tower , a lattice tower site for a wireless communications tower can consist of a tract of land of 10000 square feet for a rural site or less than 2500 square feet for a metropolitan site .
+  [4] a guyed tower can reach heights of up to 2000 feet .
+  [5] a lattice tower can reach heights of up to 1000 feet .
+  [6] ( 1 ) the facility in woburn contains a total of 163000 square feet of space .
+  [7] monopoles typically have heights ranging from 50 to 200 feet .
+  [8] the atlanta ga of function is us tower division accounting services headquarters ; the atlanta ga of size ( square feet ) is 21400 ; the atlanta ga of property interest is leased
+  [9] 2022 a guyed tower includes a series of cables attaching separate levels of the tower to anchor foundations in the ground .
+  [10] the cary north carolina of function is us tower division new site development site operations and structural engineering services headquarters ; the cary north carolina of size ( square feet ) is 17500 ; the cary north carolina of property interest is leased
+
+================================================================================
+ITEM 4    id: ETFC/2007/page_18.pdf-2
+QUESTION: as of december 2007 what was the percent of the square footage in alpharetta georgia not yet leased
+ANSWER GIVEN: 75.8%
+MODEL'S OWN REASONING (judge against the passages, not this):
+166,000 ÷ 219,000 = 0.7580  
+0.7580 × 100 = 75.8  
+
+FINAL ANSWER: 75.8%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the alpharetta georgia of approximate square footage is 219000
+  [2] all facilities are leased , except for 166000 square feet of our office in alpharetta , georgia .
+  [3] the toronto canada of approximate square footage is 75000
+  [4] the charlotte north carolina of approximate square footage is 83000
+  [5] the sandy utah of approximate square footage is 77000
+  [6] all other leased facilities with space of less than 25000 square feet are not listed by location .
+  [7] the chicago illinois of approximate square footage is 29000
+  [8] location | approximate square footage
+  [9] square footage amounts are net of space that has been sublet or part of a facility restructuring. .
+  [10] the arlington virginia of approximate square footage is 196000
+
+================================================================================
+ITEM 5    id: AES/2001/page_33.pdf-1
+QUESTION: what was the difference in the companies high compared to its low sales price for the fourth quarter of 2001?
+ANSWER GIVEN: insufficient evidence
+MODEL'S OWN REASONING (judge against the passages, not this):
+FINAL ANSWER: insufficient evidence
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the fourth quarter of high $ 60.15 is 17.80 ; the fourth quarter of low $ 41.30 is 11.60 ; the fourth quarter of 2000 first quarter is fourth quarter ; the fourth quarter of high $ 44.72 is 72.81 ; the fourth quarter of low $ 34.25 is 45.00
+  [2] 2001 first quarter | high $ 60.15 | low $ 41.30 | 2000 first quarter | high $ 44.72 | low $ 34.25
+  [3] the second quarter of high $ 60.15 is 52.25 ; the second quarter of low $ 41.30 is 39.95 ; the second quarter of 2000 first quarter is second quarter ; the second quarter of high $ 44.72 is 49.63 ; the second quarter of low $ 34.25 is 35.56
+  [4] the third quarter of high $ 60.15 is 44.50 ; the third quarter of low $ 41.30 is 12.00 ; the third quarter of 2000 first quarter is third quarter ; the third quarter of high $ 44.72 is 70.25 ; the third quarter of low $ 34.25 is 45.13
+  [5] the following tables set forth the high and low sale prices for the common stock as reported by the nyse for the periods indicated .
+  [6] under the terms of the company 2019s corporate revolving loan and letters of credit facility of $ 850 million entered into with a commercial bank syndicate and other bank agreements , the company is currently limited in the amount of cash dividends it is allowed to pay .
+  [7] in addition , the company is precluded from paying cash dividends on its common stock under the terms of a guaranty to the utility customer in connection with the aes thames project in the event certain net worth and liquidity tests of the company are not met .
+  [8] price range of common stock .
+  [9] as of march 2 , 2002 , there were 9967 record holders of the company 2019s common stock , par value $ 0.01 per share .
+  [10] the common stock of the company is currently traded on the new york stock exchange ( nyse ) under the symbol 2018 2018aes 2019 2019 .
+
+================================================================================
+ITEM 6    id: AAL/2010/page_72.pdf-1
+QUESTION: from 2016-2020 what was the ratio of the pension to the retiree medical and other service costs
+ANSWER GIVEN: 5.02
+MODEL'S OWN REASONING (judge against the passages, not this):
+4959 ÷ 989 ≈ 5.02  
+
+FINAL ANSWER: 5.02
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the 2016 2014 2020 of pension is 4959 ; the 2016 2014 2020 of retiree medical and other is 989
+  [2] the 2014 of pension is 729 ; the 2014 of retiree medical and other is 170
+  [3] the 2015 of pension is 785 ; the 2015 of retiree medical and other is 173
+  [4] the 2011 of pension is 574 ; the 2011 of retiree medical and other is 173
+  [5] the 2013 of pension is 665 ; the 2013 of retiree medical and other is 169
+  [6] the 2012 of pension is 602 ; the 2012 of retiree medical and other is 170
+  [7] pension | retiree medical and other
+  [8] the following benefit payments , which reflect expected future service as appropriate , are expected to be paid : retiree medical pension and other .
+  [9] under the relief act , the company 2019s 2010 minimum required contribution to its defined benefit pension plans was reduced from $ 525 million to approximately $ 460 million .
+  [10] gaap , the use of settlement accounting is required if , for a given year , the cost of all settlements exceeds , or is expected to exceed , the sum of the service cost and interest cost components of net periodic pension expense for a plan .
+
+================================================================================
+ITEM 7    id: MRO/2013/page_39.pdf-2
+QUESTION: by what percentage did the average price of wti crude oil increase from 2011 to 2013?
+ANSWER GIVEN: 3.09%
+MODEL'S OWN REASONING (judge against the passages, not this):
+Increase = $98.05 − $95.11 = $2.94  
+Percentage increase = ($2.94 / $95.11) × 100 ≈ 3.09 %  
+
+FINAL ANSWER: 3.09%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the wti crude oil ( dollars per bbl ) of 2013 is $ 98.05 ; the wti crude oil ( dollars per bbl ) of 2012 is $ 94.15 ; the wti crude oil ( dollars per bbl ) of 2011 is $ 95.11
+  [2] location 2013 in recent years , crude oil sold along the u.s .
+  [3] the brent ( europe ) crude oil ( dollars per bbl ) of 2013 is $ 108.64 ; the brent ( europe ) crude oil ( dollars per bbl ) of 2012 is $ 111.65 ; the brent ( europe ) crude oil ( dollars per bbl ) of 2011 is $ 111.26
+  [4] the percentage of our north america e&p crude oil and condensate production that is light sweet crude has been increasing as onshore production from the eagle ford and bakken increases and production from the gulf of mexico declines .
+  [5] quality 2013 light sweet crude contains less sulfur and tends to be lighter than sour crude oil so that refining it is less costly and has historically produced higher value products ; therefore , light sweet crude is considered of higher quality and has historically sold at a price that approximates wti or at a premium to wti .
+  [6] overview 2013 market conditions prevailing prices for the various qualities of crude oil and natural gas that we produce significantly impact our revenues and cash flows .
+  [7] crude oil and condensate production that was sweet averaged 76 percent compared to 63 percent and 42 percent in 2012 and 2011 .
+  [8] the following table lists benchmark crude oil and natural gas price averages relative to our north america e&p and international e&p segments for the past three years. .
+  [9] the average annual wti .
+  [10] north america e&p liquid hydrocarbons 2013 the quality , location and composition of our liquid hydrocarbon production mix can cause our north america e&p price realizations to differ from the wti benchmark .
+
+================================================================================
+ITEM 8    id: UPS/2010/page_52.pdf-1
+QUESTION: what percentage of total expected cash outflow to satisfy contractual obligations and commitments as of december 31 , 2010 are due in 2012?
+ANSWER GIVEN: insufficient evidence
+MODEL'S OWN REASONING (judge against the passages, not this):
+FINAL ANSWER: insufficient evidence
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the following table summarizes the expected cash outflow to satisfy our contractual obligations and commitments as of december 31 , 2010 ( in millions ) : .
+  [2] the purchase commitments of 2011 is 642 ; the purchase commitments of 2012 is 463 ; the purchase commitments of 2013 is 425 ; the purchase commitments of 2014 is 16 ; the purchase commitments of 2015 is 2014 ; the purchase commitments of after 2016 is 2014 ; the purchase commitments of total is 1546
+  [3] we intend to satisfy these obligations through the use of cash flow from operations .
+  [4] the total of 2011 is $ 2944 ; the total of 2012 is $ 1334 ; the total of 2013 is $ 3515 ; the total of 2014 is $ 2059 ; the total of 2015 is $ 820 ; the total of after 2016 is $ 12884 ; the total of total is $ 23556
+  [5] contractual commitments we have contractual obligations and commitments in the form of capital leases , operating leases , debt obligations , purchase commitments , and certain other liabilities .
+  [6] the amount of interest on our debt was calculated as the contractual interest payments due on our fixed-rate debt , in addition to interest on variable rate debt that was calculated based on interest rates as of december 31 , 2010 .
+  [7] the debt interest of 2011 is 322 ; the debt interest of 2012 is 321 ; the debt interest of 2013 is 300 ; the debt interest of 2014 is 274 ; the debt interest of 2015 is 269 ; the debt interest of after 2016 is 4940 ; the debt interest of total is 6426
+  [8] the other liabilities of 2011 is 69 ; the other liabilities of 2012 is 67 ; the other liabilities of 2013 is 64 ; the other liabilities of 2014 is 58 ; the other liabilities of 2015 is 43 ; the other liabilities of after 2016 is 38 ; the other liabilities of total is 339
+  [9] the pension fundings of 2011 is 1200 ; the pension fundings of 2012 is 196 ; the pension fundings of 2013 is 752 ; the pension fundings of 2014 is 541 ; the pension fundings of 2015 is 274 ; the pension fundings of after 2016 is 2014 ; the pension fundings of total is 2963
+  [10] commitment type | 2011 | 2012 | 2013 | 2014 | 2015 | after 2016 | total
+
+================================================================================
+ITEM 9    id: NWS/2017/page_119.pdf-2
+QUESTION: what percentage of the intangible assets is related to the license of the realtor.com ae trademark?
+ANSWER GIVEN: 53.7%
+MODEL'S OWN REASONING (judge against the passages, not this):
+116 / 216 ≈ 0.537 → 53.7 %  
+FINAL ANSWER: 53.7%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the acquired intangible assets relate to the license of the realtor.com ae trademark , which has a fair value of approximately $ 116 million and an indefinite life , and customer relationships , other tradenames and certain multiple listing service agreements with an aggregate fair value of approximately $ 100 million , which are being amortized over a weighted-average useful life of approximately 15 years .
+  [2] the company also acquired technology , primarily associated with the realtor.com ae website , that has a fair value of approximately $ 39 million , which is being amortized over 4 years .
+  [3] the intangible assets of $ 108 is 216
+  [4] the net assets acquired of $ 108 is $ 892
+  [5] the total assets acquired of $ 108 is $ 1126
+  [6] news corporation notes to the consolidated financial statements consideration transferred over the fair value of the net tangible and intangible assets acquired was recorded as goodwill .
+  [7] the other current assets of $ 108 is 28
+  [8] the other non-current assets of $ 108 is 69
+  [9] the acquired technology has been recorded in property , plant and equipment , net in the consolidated balance sheets as of the date of acquisition .
+  [10] the allocation is as follows ( in millions ) : assets acquired: .
+
+================================================================================
+ITEM 10    id: ETR/2011/page_17.pdf-1
+QUESTION: what is the percentage change in net revenue from 2010 to 2011?
+ANSWER GIVEN: -2.9%
+MODEL'S OWN REASONING (judge against the passages, not this):
+Net revenue change = (4904 − 5051) / 5051 = −147 / 5051 ≈ −0.0291 → ≈ −2.9 %  
+
+FINAL ANSWER: -2.9%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the 2011 net revenue of amount ( in millions ) is $ 4904
+  [2] entergy corporation and subsidiaries management's financial discussion and analysis net revenue utility following is an analysis of the change in net revenue comparing 2011 to 2010 .
+  [3] the 2010 net revenue of amount ( in millions ) is $ 5051
+  [4] the net wholesale revenue of amount ( in millions ) is -14 ( 14 )
+  [5] the gains resulted in an increase in interest and investment income in 2010 and a corresponding increase in regulatory charges with no effect on net income .
+  [6] the net wholesale revenue variance is primarily due to lower margins on co-owner contracts and higher wholesale energy costs .
+  [7] industrial sales growth has continued since the beginning of 2010 .
+  [8] the retail electric price variance is primarily due to : rate actions at entergy texas , including a base rate increase effective august 2010 and an additional increase beginning may 2011 ; a formula rate plan increase at entergy louisiana effective may 2011 ; and a base rate increase at entergy arkansas effective july 2010 .
+  [9] these were partially offset by formula rate plan decreases at entergy new orleans effective october 2010 and october 2011 .
+  [10] the mark-to-market tax settlement sharing variance results from a regulatory charge because a portion of the benefits of a settlement with the irs related to the mark-to-market income tax treatment of power purchase contracts will be shared with customers , slightly offset by the amortization of a portion of that charge beginning in october 2011 .
+
+================================================================================
+ITEM 11    id: BLL/2006/page_67.pdf-3
+QUESTION: what percentage of total net assets acquired were goodwill?
+ANSWER GIVEN: 51.23%
+MODEL'S OWN REASONING (judge against the passages, not this):
+411.1 ÷ 802.6 ≈ 0.5123 → 0.5123 × 100 ≈ 51.23 %  
+FINAL ANSWER: 51.23%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] following is a summary of the net assets acquired in the u.s .
+  [2] the net assets acquired of u.s . can ( metal food & household products packaging americas ) is $ 617.9 ; the net assets acquired of alcan ( plastic packaging americas ) is $ 184.7 ; the net assets acquired of total is $ 802.6
+  [3] the goodwill of u.s . can ( metal food & household products packaging americas ) is 358.0 ; the goodwill of alcan ( plastic packaging americas ) is 53.1 ; the goodwill of total is 411.1
+  [4] can was a stock purchase , neither the goodwill nor the intangible assets are tax deductible for u.s .
+  [5] the customer relationships and acquired technologies of both acquisitions were identified as valuable intangible assets by an independent valuation firm and assigned an estimated life of 20 years by the company based on the valuation firm 2019s estimates .
+  [6] however , because the alcan acquisition was an asset purchase , both the goodwill and the intangible assets are deductible for u.s .
+  [7] the valuation by management of certain assets , including identification and valuation of acquired fixed assets and intangible assets , and of liabilities , including development and assessment of associated costs of consolidation and integration plans , is still in process and , therefore , the actual fair values may vary from the preliminary estimates .
+  [8] the other assets primarily inventories and receivables of u.s . can ( metal food & household products packaging americas ) is 218.8 ; the other assets primarily inventories and receivables of alcan ( plastic packaging americas ) is 40.7 ; the other assets primarily inventories and receivables of total is 259.5
+  [9] the acquired assets included two plastic container manufacturing plants in the u.s .
+  [10] the liabilities assumed ( excluding refinanced debt ) primarily current of u.s . can ( metal food & household products packaging americas ) is -176.7 ( 176.7 ) ; the liabilities assumed ( excluding refinanced debt ) primarily current of alcan ( plastic packaging americas ) is -11.9 ( 11.9 ) ; the liabilities assumed ( excluding refinanced debt ) primarily current of total is -188.6 ( 188.6 )
+
+================================================================================
+ITEM 12    id: ABMD/2012/page_41.pdf-4
+QUESTION: what is the roi of an investment in nasdaq composite index from march 2007 to march 2010?
+ANSWER GIVEN: -0.98%
+MODEL'S OWN REASONING (judge against the passages, not this):
+ROI = (99.02 − 100) / 100 × 100 = −0.98 %  
+FINAL ANSWER: -0.98%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the performance graph assumes the investment of $ 100 on march 31 , 2007 in our common stock , the nasdaq composite index ( u.s .
+  [2] the nasdaq composite index of 3/31/2007 is 100 ; the nasdaq composite index of 3/31/2008 is 94.11 ; the nasdaq composite index of 3/31/2009 is 63.12 ; the nasdaq composite index of 3/31/2010 is 99.02 ; the nasdaq composite index of 3/31/2011 is 114.84 ; the nasdaq composite index of 3/31/2012 is 127.66
+  [3] performance graph the following graph compares the yearly change in the cumulative total stockholder return for our last five full fiscal years , based upon the market price of our common stock , with the cumulative total return on a nasdaq composite index ( u.s .
+  [4] the nasdaq medical equipment sic code 3840-3849 of 3/31/2007 is 100 ; the nasdaq medical equipment sic code 3840-3849 of 3/31/2008 is 82.91 ; the nasdaq medical equipment sic code 3840-3849 of 3/31/2009 is 41.56 ; the nasdaq medical equipment sic code 3840-3849 of 3/31/2010 is 77.93 ; the nasdaq medical equipment sic code 3840-3849 of 3/31/2011 is 94.54 ; the nasdaq medical equipment sic code 3840-3849 of 3/31/2012 is 74.40
+  [5] companies ) and the peer group index , and the reinvestment of any and all dividends. .
+  [6] the abiomed inc of 3/31/2007 is 100 ; the abiomed inc of 3/31/2008 is 96.19 ; the abiomed inc of 3/31/2009 is 35.87 ; the abiomed inc of 3/31/2010 is 75.55 ; the abiomed inc of 3/31/2011 is 106.37 ; the abiomed inc of 3/31/2012 is 162.45
+  [7] companies ) and a peer group , the nasdaq medical equipment-sic code 3840-3849 index , which is comprised of medical equipment companies , for that period .
+  [8] 3/31/2007 | 3/31/2008 | 3/31/2009 | 3/31/2010 | 3/31/2011 | 3/31/2012
+  [9] this graph is not 201csoliciting material 201d under regulation 14a or 14c of the rules promulgated under the securities exchange act of 1934 , is not deemed filed with the securities and exchange commission and is not to be incorporated by reference in any of our filings under the securities act of 1933 , as amended , or the exchange act whether made before or after the date hereof and irrespective of any general incorporation language in any such filing .
+  [10] transfer agent american stock transfer & trust company , 59 maiden lane , new york , ny 10038 , is our stock transfer agent. .
+
+================================================================================
+ITEM 13    id: ETR/2016/page_23.pdf-1
+QUESTION: what is the growth rate in net revenue in 2015 for entergy corporation?
+ANSWER GIVEN: 1.64%
+MODEL'S OWN REASONING (judge against the passages, not this):
+Growth rate = (5829 − 5735) ÷ 5735  
+= 94 ÷ 5735  
+≈ 0.0164  
+
+FINAL ANSWER: 1.64%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the 2015 net revenue of amount ( in millions ) is $ 5829
+  [2] net revenue utility following is an analysis of the change in net revenue comparing 2015 to 2014 .
+  [3] entergy corporation and subsidiaries management 2019s financial discussion and analysis a result of the entergy louisiana and entergy gulf states louisiana business combination , results of operations for 2015 also include two items that occurred in october 2015 : 1 ) a deferred tax asset and resulting net increase in tax basis of approximately $ 334 million and 2 ) a regulatory liability of $ 107 million ( $ 66 million net-of-tax ) as a result of customer credits to be realized by electric customers of entergy louisiana , consistent with the terms of the stipulated settlement in the business combination proceeding .
+  [4] the retail electric price variance is primarily due to : 2022 formula rate plan increases at entergy louisiana , as approved by the lpsc , effective december 2014 and january 2015 ; 2022 an increase in energy efficiency rider revenue primarily due to increases in the energy efficiency rider at entergy arkansas , as approved by the apsc , effective july 2015 and july 2014 , and new energy efficiency riders at entergy louisiana and entergy mississippi that began in the fourth quarter 2014 ; and 2022 an annual net rate increase at entergy mississippi of $ 16 million , effective february 2015 , as a result of the mpsc order in the june 2014 rate case .
+  [5] the 2014 net revenue of amount ( in millions ) is $ 5735
+  [6] results of operations for 2014 also include the $ 56.2 million ( $ 36.7 million net-of-tax ) write-off in 2014 of entergy mississippi 2019s regulatory asset associated with new nuclear generation development costs as a result of a joint stipulation entered into with the mississippi public utilities staff , subsequently approved by the mpsc , in which entergy mississippi agreed not to pursue recovery of the costs deferred by an mpsc order in the new nuclear generation docket .
+  [7] see note 2 to the financial statements for a discussion of rate and regulatory proceedings. .
+  [8] results of operations for 2015 also include the sale in december 2015 of the 583 mw rhode island state energy center for a realized gain of $ 154 million ( $ 100 million net-of-tax ) on the sale and the $ 77 million ( $ 47 million net-of-tax ) write-off and regulatory charges to recognize that a portion of the assets associated with the waterford 3 replacement steam generator project is no longer probable of recovery .
+  [9] the other of amount ( in millions ) is -14 ( 14 )
+  [10] results of operations for 2014 include $ 154 million ( $ 100 million net-of-tax ) of charges related to vermont yankee primarily resulting from the effects of an updated decommissioning cost study completed in the third quarter 2014 along with reassessment of the assumptions regarding the timing of decommissioning cash flows and severance and employee retention costs .
+
+================================================================================
+ITEM 14    id: CB/2008/page_229.pdf-2
+QUESTION: what was the average amortization expense from 2006 to 2008
+ANSWER GIVEN: 77
+MODEL'S OWN REASONING (judge against the passages, not this):
+90 + 77 + 64 = 231  
+231 ÷ 3 = 77  
+
+FINAL ANSWER: 77
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] amortization expense related to tangible property amounted to $ 90 million , $ 77 million , and $ 64 million for the years ended december 31 , 2008 , 2007 , and 2006 , respectively .
+  [2] other disclosures required by swiss law ( i ) expenses total personnel expenses amounted to $ 1.4 billion for the year ended december 31 , 2008 , and $ 1.1 billion for each of the years ended december 31 , 2007 and 2006 .
+  [3] subsidiaries as of and for the years ended december 31 , 2008 , 2007 , and 2006 , are as follows: .
+  [4] the statutory net income of bermuda subsidiaries 2008 is $ 684 ; the statutory net income of bermuda subsidiaries 2007 is $ 1535 ; the statutory net income of bermuda subsidiaries 2006 is $ 1527 ; the statutory net income of bermuda subsidiaries 2008 is $ 798 ; the statutory net income of bermuda subsidiaries 2007 is $ 873 ; the statutory net income of 2006 is $ 724
+  [5] subsidiaries discount certain a&e liabilities , which increased statutory capital and surplus by approximately $ 211 million , $ 140 million , and $ 157 million as of december 31 , 2008 , 2007 , and 2006 , respectively .
+  [6] the statutory capital and surplus of bermuda subsidiaries 2008 is $ 7001 ; the statutory capital and surplus of bermuda subsidiaries 2007 is $ 8579 ; the statutory capital and surplus of bermuda subsidiaries 2006 is $ 7605 ; the statutory capital and surplus of bermuda subsidiaries 2008 is $ 5337 ; the statutory capital and surplus of bermuda subsidiaries 2007 is $ 5321 ; the statutory capital and surplus of 2006 is $ 4431
+  [7] the amount of dividends available to be paid in 2009 , without prior approval from the state insurance departments , totals $ 835 million .
+  [8] ( in millions of u.s . dollars ) | bermuda subsidiaries 2008 | bermuda subsidiaries 2007 | bermuda subsidiaries 2006 | bermuda subsidiaries 2008 | bermuda subsidiaries 2007 | 2006
+  [9] statutory accounting differs from gaap in the reporting of certain reinsurance contracts , investments , subsidiaries , acquis- ition expenses , fixed assets , deferred income taxes , and certain other items .
+  [10] subsidiaries met regulatory requirements for 2008 , 2007 , and 2006 .
+
+================================================================================
+ITEM 15    id: DRE/2005/page_30.pdf-2
+QUESTION: what was the total gain on sales in 2004 before any adjustment for impairments in millions
+ANSWER GIVEN: 10.626
+MODEL'S OWN REASONING (judge against the passages, not this):
+10626 ( thousands ) = 10.626 million  
+FINAL ANSWER: 10.626
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the gain on land sales of 2004 is $ 10543 ; the gain on land sales of 2003 is $ 7695
+  [2] the impairment adjustment of 2004 is -424 ( 424 ) ; the impairment adjustment of 2003 is -560 ( 560 )
+  [3] other income and expenses earnings from sales of land and ownership interests in unconsolidated companies , net of impairment adjustments , is comprised of the following amounts in 2004 and 2003 ( in thousands ) : .
+  [4] the gain on sale of ownership interests in unconsolidated companies of 2004 is 83 ; the gain on sale of ownership interests in unconsolidated companies of 2003 is 8617
+  [5] the total of 2004 is $ 10202 ; the total of 2003 is $ 15752
+  [6] gain on land sales are derived from sales of undeveloped land owned by us .
+  [7] during 2004 , we generated after tax gains of $ 16.5 million from the sale of six properties compared to $ 9.6 million from the sale of four properties in 2003 .
+  [8] as of december 31 , 2004 , only one parcel on which we recorded impairment charges was still owned by us .
+  [9] we recorded $ 424000 and $ 560000 of impairment charges associated with contracts to sell land parcels for the years ended december 31 , 2004 and 2003 , respectively .
+  [10] the joint venture developed and operated real estate assets ; thus , the gain was not included in operating income .
+
+================================================================================
+ITEM 16    id: SNA/2018/page_31.pdf-1
+QUESTION: for the quarter ended 12/29/2018 what was the percent of the total shares bought after 11/25/2018
+ANSWER GIVEN: 37.96%
+MODEL'S OWN REASONING (judge against the passages, not this):
+205,000 shares were bought after 11/25/2018.  
+Total shares bought in the quarter (10/28‑11/24 + 11/25‑12/29) = 335,000 + 205,000 = 540,000.  
+Percent = 205,000 ÷ 540,000 × 100 ≈ 37.96 %.
+
+FINAL ANSWER: 37.96%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the 11/25/18 to 12/29/18 of sharespurchased is 205000 ; the 11/25/18 to 12/29/18 of average priceper share is $ 160.20 ; the 11/25/18 to 12/29/18 of shares purchased aspart of publiclyannounced plans orprograms is 205000 ; the 11/25/18 to 12/29/18 of approximatevalue of sharesthat may yet bepurchased underpubliclyannounced plansor programs* is $ 215.7 million
+  [2] when calculating the approximate value of shares that the company may yet purchase under the 1996 authorization , the company assumed a price of $ 148.71 , $ 161.00 and $ 144.25 per share of common stock as of the end of the fiscal 2018 months ended october 27 , 2018 , november 24 , 2018 , and december 29 , 2018 , respectively .
+  [3] the 10/28/18 to 11/24/18 of sharespurchased is 335000 ; the 10/28/18 to 11/24/18 of average priceper share is $ 159.35 ; the 10/28/18 to 11/24/18 of shares purchased aspart of publiclyannounced plans orprograms is 335000 ; the 10/28/18 to 11/24/18 of approximatevalue of sharesthat may yet bepurchased underpubliclyannounced plansor programs* is $ 239.1 million
+  [4] the total/average of sharespurchased is 630000 ; the total/average of average priceper share is $ 158.19 ; the total/average of shares purchased aspart of publiclyannounced plans orprograms is 630000 ; the total/average of approximatevalue of sharesthat may yet bepurchased underpubliclyannounced plansor programs* is n/a
+  [5] ______________________ n/a : not applicable * subject to further adjustment pursuant to the 1996 authorization described below , as of december 29 , 2018 , the approximate value of shares that may yet be purchased pursuant to the outstanding board authorizations discussed below is $ 215.7 million .
+  [6] issuer purchases of equity securities the following chart discloses information regarding the shares of snap-on 2019s common stock repurchased by the company during the fourth quarter of fiscal 2018 , all of which were purchased pursuant to the board 2019s authorizations that the company has publicly announced .
+  [7] the 09/30/18 to 10/27/18 of sharespurchased is 90000 ; the 09/30/18 to 10/27/18 of average priceper share is $ 149.28 ; the 09/30/18 to 10/27/18 of shares purchased aspart of publiclyannounced plans orprograms is 90000 ; the 09/30/18 to 10/27/18 of approximatevalue of sharesthat may yet bepurchased underpubliclyannounced plansor programs* is $ 292.4 million
+  [8] 2022 in 1996 , the board authorized the company to repurchase shares of the company 2019s common stock from time to time in the open market or in privately negotiated transactions ( 201cthe 1996 authorization 201d ) .
+  [9] part ii item 5 : market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities snap-on had 55610781 shares of common stock outstanding as of 2018 year end .
+  [10] the 1996 authorization allows the repurchase of up to the number of shares issued or delivered from treasury from time to time under the various plans the company has in place that call for the issuance of the company 2019s common stock .
+
+================================================================================
+ITEM 17    id: MAS/2017/page_27.pdf-2
+QUESTION: what was the difference in percentage cumulative total shareholder return on masco common stock versus the s&p 500 index for the five year period ended 2017?
+ANSWER GIVEN: 111.97%
+MODEL'S OWN REASONING (judge against the passages, not this):
+Masco return = $318.46 − $100 = 218.46%  
+S&P 500 return = $206.49 − $100 = 106.49%  
+Difference = 218.46% − 106.49% = 111.97%
+
+FINAL ANSWER: 111.97%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] performance graph the table below compares the cumulative total shareholder return on our common stock with the cumulative total return of ( i ) the standard & poor's 500 composite stock index ( "s&p 500 index" ) , ( ii ) the standard & poor's industrials index ( "s&p industrials index" ) and ( iii ) the standard & poor's consumer durables & apparel index ( "s&p consumer durables & apparel index" ) , from december 31 , 2012 through december 31 , 2017 , when the closing price of our common stock was $ 43.94 .
+  [2] the table below sets forth the value , as of december 31 for each of the years indicated , of a $ 100 investment made on december 31 , 2012 in each of our common stock , the s&p 500 index , the s&p industrials index and the s&p consumer durables & apparel index and includes the reinvestment of dividends. .
+  [3] the s&p 500 index of 2013 is $ 132.04 ; the s&p 500 index of 2014 is $ 149.89 ; the s&p 500 index of 2015 is $ 151.94 ; the s&p 500 index of 2016 is $ 169.82 ; the s&p 500 index of 2017 is $ 206.49
+  [4] $ 50.00 $ 100.00 $ 150.00 $ 200.00 $ 250.00 $ 300.00 $ 350.00 masco s&p 500 index s&p industrials index s&p consumer durables & apparel index .
+  [5] the s&p industrials index of 2013 is $ 140.18 ; the s&p industrials index of 2014 is $ 153.73 ; the s&p industrials index of 2015 is $ 149.83 ; the s&p industrials index of 2016 is $ 177.65 ; the s&p industrials index of 2017 is $ 214.55
+  [6] the masco of 2013 is $ 138.48 ; the masco of 2014 is $ 155.26 ; the masco of 2015 is $ 200.79 ; the masco of 2016 is $ 227.08 ; the masco of 2017 is $ 318.46
+  [7] the s&p consumer durables & apparel index of 2013 is $ 135.84 ; the s&p consumer durables & apparel index of 2014 is $ 148.31 ; the s&p consumer durables & apparel index of 2015 is $ 147.23 ; the s&p consumer durables & apparel index of 2016 is $ 138.82 ; the s&p consumer durables & apparel index of 2017 is $ 164.39
+  [8] the graph assumes investments of $ 100 on december 31 , 2012 in our common stock and in each of the three indices and the reinvestment of dividends .
+  [9] 2013 | 2014 | 2015 | 2016 | 2017
+
+================================================================================
+ITEM 18    id: SLG/2011/page_91.pdf-2
+QUESTION: what was the percent of the change in the compensation expense in connection with connection with the 2005 outperformance plan.during from 2009 to 2010
+ANSWER GIVEN: -30.4%
+MODEL'S OWN REASONING (judge against the passages, not this):
+Percent change = ((1.6 − 2.3) ÷ 2.3) × 100 = (‑0.7 ÷ 2.3) × 100 ≈ ‑30.4%
+
+FINAL ANSWER: -30.4%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] we recorded approximately $ 1.6 a0million and $ 2.3 a0million of compensation expense during the years ended december a031 , 2010 and 2009 , respectively , in connection with the 2005 outperformance plan .
+  [2] we recorded approximately $ 70000 , $ 0.2 a0million and $ 0.4 a0million of compensation expense during the years ended december a031 , 2011 , 2010 and 2009 , respectively , in connection with the 2006 outperformance plan. .
+  [3] the compensation expense recorded of 2011 is $ 17365401 ; the compensation expense recorded of 2010 is $ 15327206 ; the compensation expense recorded of 2009 is $ 23301744
+  [4] we recorded compensation expense of $ 23000 and $ 0.1 a0million related to this plan during the years ended december a031 , 2010 and 2009 , respectively .
+  [5] the cost of the 2005 outperformance plan had been fully expensed as of june a030 , 2010 .
+  [6] 2005 long- term outperformance compensation program in december 2005 , the compensation committee of our board of directors approved a long- term incentive compensation program , the 2005 outperformance plan .
+  [7] the cost of the 2005 outperformance plan ( approximately $ 8.0 a0million , subject to adjustment for forfeitures ) was amortized into earnings through the final vesting period .
+  [8] in april 2007 , the compensation committee determined that under the terms of the 2003 outperformance plan , as of march a031 , 2007 , the performance hurdles had been met and the maximum performance pool of $ 22825000 , taking into account forfeitures , was established .
+  [9] the cost of the 2003 outperformance plan had been fully expensed as of march a031 , 2010 .
+  [10] under the terms of the 2005 outperformance plan , participants also earned additional ltip units with a value equal to the distributions that would have been paid with respect to the ltip units earned if such ltip units had been earned at the beginning of the performance period .
+
+================================================================================
+ITEM 19    id: SNA/2007/page_49.pdf-3
+QUESTION: what is the average repurchase price per share paid during 2006?
+ANSWER GIVEN: 42.00
+MODEL'S OWN REASONING (judge against the passages, not this):
+The repurchase cost in 2006 was $109.8 million for 2,616,618 shares.  
+Average price per share = $109,800,000 ÷ 2,616,618 ≈ $42.00.
+
+FINAL ANSWER: 42.00
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] in 2007 , snap-on repurchased 1860000 shares of common stock for $ 94.4 million under its previously announced share repurchase programs .
+  [2] the cash dividends paid per common share of 2007 is $ 1.11 ; the cash dividends paid per common share of 2006 is $ 1.08 ; the cash dividends paid per common share of 2005 is $ 1.00
+  [3] the cash used to repurchase shares of common stock was partially offset by $ 39.2 million of proceeds from stock purchase and option plan exercises and $ 6.0 million of related excess tax benefits .
+  [4] at the beginning of fiscal 2006 , the company 2019s board increased the quarterly cash dividend by 8% ( 8 % ) to $ 0.27 per share ( $ 1.08 per share per year ) . .
+  [5] cash dividends paid in 2007 , 2006 and 2005 totaled $ 64.8 million , $ 63.6 million and $ 57.8 million , respectively .
+  [6] as of december 29 , 2007 , snap-on had remaining availability to repurchase up to an additional $ 116.8 million in common stock pursuant to the board of directors 2019 ( 201cboard 201d ) authorizations .
+  [7] on november 1 , 2007 , the company announced that its board increased the quarterly cash dividend by 11.1% ( 11.1 % ) to $ 0.30 per share ( $ 1.20 per share per year ) .
+  [8] the cash dividends paid as a percent of prior-year retained earnings of 2007 is 5.5% ( 5.5 % ) ; the cash dividends paid as a percent of prior-year retained earnings of 2006 is 5.6% ( 5.6 % ) ; the cash dividends paid as a percent of prior-year retained earnings of 2005 is 5.2% ( 5.2 % )
+  [9] snap-on repurchased 2616618 shares of common stock for $ 109.8 million in 2006 and 912100 shares of common stock for $ 32.1 million in 2005 .
+  [10] snap-on believes that its cash generated from operations , as well as the funds available from its credit facilities , will be sufficient to fund the company 2019s share repurchases in 2008 .
+
+================================================================================
+ITEM 20    id: CDW/2015/page_70.pdf-1
+QUESTION: what was total in millions of accumulated other comprehensive loss?
+ANSWER GIVEN: -84.0
+MODEL'S OWN REASONING (judge against the passages, not this):
+61.1 + 16.6 + 6.3 = 84.0  
+Total accumulated other comprehensive loss = ‑84.0 million  
+
+FINAL ANSWER: -84.0
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the accumulated other comprehensive loss of years ended december 31 , 2015 is $ -61.1 ( 61.1 ) ; the accumulated other comprehensive loss of years ended december 31 , 2014 is $ -16.6 ( 16.6 ) ; the accumulated other comprehensive loss of years ended december 31 , 2013 is $ -6.3 ( 6.3 )
+  [2] accumulated other comprehensive loss foreign currency translation adjustments are included in stockholders 2019 equity under accumulated other comprehensive the components of accumulated other comprehensive loss are as follows: .
+  [3] the company records revenue from sales transactions when title and risk of loss are passed to the customer , there is persuasive evidence of an arrangement for sale , delivery has occurred and/or services have been rendered , the sales price is fixed or determinable , and collectability is reasonably assured .
+  [4] ( in millions ) | years ended december 31 , 2015 | years ended december 31 , 2014 | years ended december 31 , 2013
+  [5] changes in fair value of the derivatives are recorded directly to interest expense , net in the consolidated statements of operations .
+  [6] destination , at which time title and risk of loss have passed to the customer .
+  [7] table of contents cdw corporation and subsidiaries notes to consolidated financial statements deferred financing costs deferred financing costs , such as underwriting , financial advisory , professional fees and other similar fees are capitalized and recognized in interest expense , net over the estimated life of the related debt instrument using the effective interest method or straight-line method , as applicable .
+  [8] revenues from the sales of hardware products and software products and licenses are generally recognized on a gross basis with the selling price to the customer recorded as sales and the acquisition cost of the product recorded as cost of sales .
+  [9] the company classifies deferred financing costs as a direct deduction from the carrying value of the long-term debt liability on the consolidated balance sheets , except for deferred financing costs associated with line-of-credit arrangements which are presented as an asset , included within 201cother assets 201d on the consolidated balance sheets .
+  [10] the foreign currency translation of years ended december 31 , 2015 is $ -61.1 ( 61.1 ) ; the foreign currency translation of years ended december 31 , 2014 is $ -16.6 ( 16.6 ) ; the foreign currency translation of years ended december 31 , 2013 is $ -6.3 ( 6.3 )
+
+================================================================================
+ITEM 21    id: MKTX/2012/page_42.pdf-3
+QUESTION: by how much did the low of mktx stock increase from 2011 to march 2012?
+ANSWER GIVEN: 9.48
+MODEL'S OWN REASONING (judge against the passages, not this):
+Low Jan‑Mar 2011 = $19.78  
+Low Jan‑Mar 2012 = $29.26  
+
+Increase = $29.26 − $19.78 = $9.48  
+
+FINAL ANSWER: 9.48
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the january 1 2012 to march 31 2012 of high is $ 37.79 ; the january 1 2012 to march 31 2012 of low is $ 29.26
+  [2] the january 1 2011 to march 31 2011 of high is $ 24.19 ; the january 1 2011 to march 31 2011 of low is $ 19.78
+  [3] the april 1 2012 to june 30 2012 of high is $ 37.65 ; the april 1 2012 to june 30 2012 of low is $ 26.22
+  [4] the april 1 2011 to june 30 2011 of high is $ 25.22 ; the april 1 2011 to june 30 2011 of low is $ 21.00
+  [5] the october 1 2011 to december 31 2011 of high is $ 31.16 ; the october 1 2011 to december 31 2011 of low is $ 24.57
+  [6] the 2011: of high is high ; the 2011: of low is low
+  [7] the october 1 2012 to december 31 2012 of high is $ 35.30 ; the october 1 2012 to december 31 2012 of low is $ 29.00
+  [8] the july 1 2011 to september 30 2011 of high is $ 30.75 ; the july 1 2011 to september 30 2011 of low is $ 23.41
+  [9] the july 1 2012 to september 30 2012 of high is $ 34.00 ; the july 1 2012 to september 30 2012 of low is $ 26.88
+  [10] 2012: | high | low
+
+================================================================================
+ITEM 22    id: PPG/2018/page_85.pdf-1
+QUESTION: are the 2018 environmental reserves greater than asbestos-related claim reserves?
+ANSWER GIVEN: insufficient evidence
+MODEL'S OWN REASONING (judge against the passages, not this):
+FINAL ANSWER: insufficient evidence
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] environmental reserves .
+  [2] ppg has established reserves totaling approximately $ 180 million for asbestos-related claims that would not be channeled to the trust which , based on presently available information , we believe will be sufficient to encompass all of ppg 2019s current and potential future asbestos liabilities .
+  [3] reserves for environmental contingencies are exclusive of claims against third parties and are generally not discounted .
+  [4] all of these factors may have a material effect upon future asbestos- related liability estimates .
+  [5] ppg will monitor the activity associated with its remaining asbestos claims and evaluate , on a periodic basis , its estimated liability for such claims , its insurance assets then available , and all underlying assumptions to determine whether any adjustment to the reserves for these claims is required .
+  [6] as of december 31 , 2018 and 2017 , ppg had reserves for environmental contingencies associated with ppg 2019s former chromium manufacturing plant in jersey city , n.j .
+  [7] while the ultimate outcome of ppg 2019s asbestos litigation cannot be predicted with certainty , ppg believes that any financial exposure resulting from its asbestos-related claims will not have a material adverse effect on ppg 2019s consolidated financial position , liquidity or results of operations .
+  [8] ppg does not have sufficient current claim information or settlement history on which to base a better estimate of this liability in light of the fact that the bankruptcy court 2019s injunction staying most asbestos claims against the company was in effect from april 2000 through may 2016 .
+  [9] 2018 ppg annual report and form 10-k 83 current open and active claims post-pittsburgh corning bankruptcy the company is aware of approximately 460 open and active asbestos-related claims pending against the company and certain of its subsidiaries .
+  [10] these reserves , which are included within other liabilities on the accompanying consolidated balance sheets , represent ppg 2019s best estimate of its liability for these claims .
+
+================================================================================
+ITEM 23    id: MRO/2007/page_136.pdf-2
+QUESTION: as of december 31 , 2007 , how much unrecognized compensation cost related to restricted stock awards is expected to be recognized in 1 year , in millions?
+ANSWER GIVEN: 26.43
+MODEL'S OWN REASONING (judge against the passages, not this):
+The $37 million will be recognized over 1.4 years, so the amount expected to be recognized in one year is:
+
+\(37 \div 1.4 = 26.4286\) million  
+
+Rounded to two decimal places: 26.43 million.
+
+FINAL ANSWER: 26.43
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] as of december 31 , 2007 , there was $ 37 million of unrecognized compensation cost related to restricted stock awards which is expected to be recognized over a weighted average period of 1.4 year .
+  [2] the unvested at december 31 2007 of stock-based performance awards 897200 is 2013 ; the unvested at december 31 2007 of weightedaverage grantdate fair value $ 14.97 is 2013 ; the unvested at december 31 2007 of restricted stock awards 1971112 is 1527831 ; the unvested at december 31 2007 of weightedaverage grantdate fair value $ 23.97 is 39.87
+  [3] the unvested at december 31 2006 of stock-based performance awards 897200 is 474000 ; the unvested at december 31 2006 of weightedaverage grantdate fair value $ 14.97 is 16.81 ; the unvested at december 31 2006 of restricted stock awards 1971112 is 1552298 ; the unvested at december 31 2006 of weightedaverage grantdate fair value $ 23.97 is 30.21
+  [4] the vesting date fair value of restricted stock awards which vested during 2007 , 2006 and 2005 was $ 29 million , $ 32 million and $ 13 million .
+  [5] during 2007 , 2006 and 2005 the weighted average grant date fair value of restricted stock awards was $ 54.97 , $ 40.45 and $ 27.21 .
+  [6] unvested at december 31 2005 | stock-based performance awards 897200 | weightedaverage grantdate fair value $ 14.97 | restricted stock awards 1971112 | weightedaverage grantdate fair value $ 23.97
+  [7] the granted of stock-based performance awards 897200 is 393420 ( a ) ; the granted of weightedaverage grantdate fair value $ 14.97 is 44.13 ; the granted of restricted stock awards 1971112 is 572897 ; the granted of weightedaverage grantdate fair value $ 23.97 is 54.97
+  [8] the granted of stock-based performance awards 897200 is 135696 ( a ) ; the granted of weightedaverage grantdate fair value $ 14.97 is 38.41 ; the granted of restricted stock awards 1971112 is 437960 ; the granted of weightedaverage grantdate fair value $ 23.97 is 40.45
+  [9] the forfeited of stock-based performance awards 897200 is 2013 ; the forfeited of weightedaverage grantdate fair value $ 14.97 is 2013 ; the forfeited of restricted stock awards 1971112 is -40268 ( 40268 ) ; the forfeited of weightedaverage grantdate fair value $ 23.97 is 34.55
+  [10] the following is a summary of stock-based performance award and restricted stock award activity .
+
+================================================================================
+ITEM 24    id: LKQ/2016/page_87.pdf-1
+QUESTION: what was the percentage change in rental expense for operating leases from 2014 to 2015?
+ANSWER GIVEN: 13.4%
+MODEL'S OWN REASONING (judge against the passages, not this):
+2015 expense – 2014 expense = $168.4 M – $148.5 M = $19.9 M  
+Percentage change = ($19.9 M / $148.5 M) × 100 ≈ 13.4 %  
+
+FINAL ANSWER: 13.4%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] rental expense for operating leases was approximately $ 211.5 million , $ 168.4 million and $ 148.5 million during the years ended december 31 , 2016 , 2015 and 2014 , respectively .
+  [2] the residual values decline over the lease terms to a defined percentage of original cost .
+  [3] we have not recorded a liability for the guaranteed residual value of equipment under operating leases as the recovery on disposition of the equipment under the leases is expected to approximate the guaranteed residual value .
+  [4] we guarantee the residual values of the majority of our truck and equipment operating leases .
+  [5] the future minimum lease commitments under these leases at december 31 , 2016 are as follows ( in thousands ) : years ending december 31: .
+  [6] commitments and contingencies operating leases we are obligated under noncancelable operating leases for corporate office space , warehouse and distribution facilities , trucks and certain equipment .
+  [7] had we terminated all of our operating leases subject to these guarantees at december 31 , 2016 , our portion of the guaranteed residual value would have totaled approximately $ 59.0 million .
+  [8] the future minimum lease payments of $ 200450 is $ 1184594
+  [9] we estimated the fair value by calculating the upfront cash payment a market participant would require at december 31 , 2016 to assume these obligations .
+  [10] the 2018 of $ 200450 is 168926
+
+================================================================================
+ITEM 25    id: FIS/2017/page_64.pdf-2
+QUESTION: what percent of the total increase or decrease would the euro be in 2016?
+ANSWER GIVEN: 29.46%
+MODEL'S OWN REASONING (judge against the passages, not this):
+38 ÷ 129 ≈ 0.2946 → 29.46 %  
+
+FINAL ANSWER: 29.46%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the total increase or decrease of 2017 is $ 130 ; the total increase or decrease of 2016 is $ 129 ; the total increase or decrease of 2015 is $ 106
+  [2] the euro of 2017 is 35 ; the euro of 2016 is 38 ; the euro of 2015 is 33
+  [3] a 10% ( 10 % ) move in average exchange rates for these currencies ( assuming a simultaneous and immediate 10% ( 10 % ) change in all of such rates for the relevant period ) would have resulted in the following increase or ( decrease ) in our reported revenues for the years ended december 31 , 2017 , 2016 and 2015 ( in millions ) : .
+  [4] the indian rupee of 2017 is 14 ; the indian rupee of 2016 is 12 ; the indian rupee of 2015 is 10
+  [5] the major currencies to which our revenues are exposed are the brazilian real , the euro , the british pound sterling and the indian rupee .
+  [6] the pound sterling of 2017 is $ 42 ; the pound sterling of 2016 is $ 47 ; the pound sterling of 2015 is $ 34
+  [7] during the years ended december 31 , 2017 , 2016 and 2015 , we generated approximately $ 1830 million , $ 1909 million and $ 1336 million , respectively , in revenues denominated in currencies other than the u.s .
+  [8] the real of 2017 is 39 ; the real of 2016 is 32 ; the real of 2015 is 29
+  [9] revenues included $ 16 million favorable and $ 100 million unfavorable and net earnings included $ 2 million favorable and $ 10 million unfavorable , respectively , of foreign currency impact during 2017 and 2016 resulting from changes in the u.s .
+  [10] dollar during these years compared to the preceding year .
+
+================================================================================
+ITEM 26    id: GS/2013/page_149.pdf-4
+QUESTION: in millions for 2013 and 2012 , what was the minimum collateral posted?
+ANSWER GIVEN: 18178
+MODEL'S OWN REASONING (judge against the passages, not this):
+The lower of the two reported collateral amounts is the 2013 figure of 18,178 million.
+
+FINAL ANSWER: 18178
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the collateral posted of as of december 2013 is 18178 ; the collateral posted of as of december 2012 is 24296
+  [2] the table below presents the aggregate fair value of net derivative liabilities under such agreements ( excluding application of collateral posted to reduce these liabilities ) , the related aggregate fair value of the assets posted as collateral , and the additional collateral or termination payments that could have been called at the reporting date by counterparties in the event of a one-notch and two-notch downgrade in the firm 2019s credit ratings. .
+  [3] in millions | as of december 2013 | as of december 2012
+  [4] the additional collateral or termination payments for a two-notch downgrade of as of december 2013 is 2989 ; the additional collateral or termination payments for a two-notch downgrade of as of december 2012 is 2500
+  [5] the additional collateral or termination payments for a one-notch downgrade of as of december 2013 is 911 ; the additional collateral or termination payments for a one-notch downgrade of as of december 2012 is 1534
+  [6] additional collateral or termination payments for a one-notch downgrade 911 1534 additional collateral or termination payments for a two-notch downgrade 2989 2500 credit derivatives the firm enters into a broad array of credit derivatives in locations around the world to facilitate client transactions and to manage the credit risk associated with market- making and investing and lending activities .
+  [7] the net derivative liabilities under bilateral agreements of as of december 2013 is $ 22176 ; the net derivative liabilities under bilateral agreements of as of december 2012 is $ 27885
+  [8] the firm assesses the impact of these bilateral agreements by determining the collateral or termination payments that would occur assuming a downgrade by all rating agencies .
+  [9] notes to consolidated financial statements derivatives with credit-related contingent features certain of the firm 2019s derivatives have been transacted under bilateral agreements with counterparties who may require the firm to post collateral or terminate the transactions based on changes in the firm 2019s credit ratings .
+  [10] the most junior tranches cover initial defaults and once losses exceed the notional amount of these junior tranches , any excess loss is covered by the next most senior tranche in the capital structure .
+
+================================================================================
+ITEM 27    id: PNC/2012/page_174.pdf-1
+QUESTION: the specific reserves in the alll as of december 31 , 2012 were what percent of the tdr portfolio?
+ANSWER GIVEN: insufficient evidence
+MODEL'S OWN REASONING (judge against the passages, not this):
+FINAL ANSWER: insufficient evidence
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] we held specific reserves in the alll of $ 587 million and $ 580 million at december 31 , 2012 and december 31 , 2011 , respectively , for the total tdr portfolio .
+  [2] the following table quantifies the number of loans that were classified as tdrs as well as the change in the recorded investments as a result of the tdr classification during the years ended december 31 , 2012 and 2011 .
+  [3] additionally , the table provides information about the types of tdr concessions .
+  [4] when there have been multiple concessions granted , the principal forgiveness tdr was prioritized for purposes of determining the inclusion in the table below .
+  [5] the other tdr category primarily includes postponement/reduction of scheduled amortization , as well as contractual extensions .
+  [6] the additional tdr population increased nonperforming loans by $ 288 million .
+  [7] the rate reduction tdr category includes reduced interest rate and interest deferral .
+  [8] the total tdrs of dec . 312012 is $ 2859 ; the total tdrs of dec . 312011 is $ 2203
+  [9] the total tdrs of dec . 312012 is $ 2859 ; the total tdrs of dec . 312011 is $ 2203
+  [10] these types of tdrs result in a write down of the recorded investment and a charge-off if such action has not already taken place .
+
+================================================================================
+ITEM 28    id: GS/2015/page_188.pdf-3
+QUESTION: for future lease payments , what percent was due in 2021 and thereafter?
+ANSWER GIVEN: insufficient evidence
+MODEL'S OWN REASONING (judge against the passages, not this):
+FINAL ANSWER: insufficient evidence
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] rent expense relating to space held for growth is included in 201coccupancy . 201d the firm records a liability , based on the fair value of the remaining lease rentals reduced by any potential or existing sublease rentals , for leases where the firm has ceased using the space and management has concluded that the firm will not derive any future economic benefits .
+  [2] the table below presents future minimum rental payments , net of minimum sublease rentals .
+  [3] the 2021 - thereafter of as of december 2015 is 1160
+  [4] costs to terminate a lease before the end of its term are recognized and measured at fair value on termination .
+  [5] rent charged to operating expense was $ 249 million for 2015 , $ 309 million for 2014 and $ 324 million for 2013 .
+  [6] leases the firm has contractual obligations under long-term noncancelable lease agreements for office space expiring on various dates through 2069 .
+  [7] the notional amount of such loan commitments was $ 27.03 billion and $ 27.51 billion as of december 2015 and december 2014 , respectively .
+  [8] in addition , subject to the satisfaction of certain conditions , upon the firm 2019s request , smfg will provide protection for 70% ( 70 % ) of additional losses on such commitments , up to a maximum of $ 1.13 billion , of which $ 768 million of protection had been provided as of both december 2015 and december 2014 .
+  [9] operating leases include office space held in excess of current requirements .
+  [10] $ in millions december 2015 .
+
+================================================================================
+ITEM 29    id: UAA/2016/page_42.pdf-2
+QUESTION: what is the debt-to-asset ratio?
+ANSWER GIVEN: 22.43%
+MODEL'S OWN REASONING (judge against the passages, not this):
+Debt‑to‑asset ratio = total debt ÷ total assets  
+= 817,388 ÷ 3,644,331 ≈ 0.2243 → 22.43%
+
+FINAL ANSWER: 22.43%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the total debt including current maturities of at december 31 , 2016 is 817388 ; the total debt including current maturities of at december 31 , 2015 is 666070 ; the total debt including current maturities of at december 31 , 2014 is 281546 ; the total debt including current maturities of at december 31 , 2013 is 151551 ; the total debt including current maturities of at december 31 , 2012 is 59858
+  [2] the total assets of at december 31 , 2016 is 3644331 ; the total assets of at december 31 , 2015 is 2865970 ; the total assets of at december 31 , 2014 is 2092428 ; the total assets of at december 31 , 2013 is 1576369 ; the total assets of at december 31 , 2012 is 1155052
+  [3] ( 1 ) working capital is defined as current assets minus current liabilities. .
+  [4] the total stockholders 2019 equity of at december 31 , 2016 is $ 2030900 ; the total stockholders 2019 equity of at december 31 , 2015 is $ 1668222 ; the total stockholders 2019 equity of at december 31 , 2014 is $ 1350300 ; the total stockholders 2019 equity of at december 31 , 2013 is $ 1053354 ; the total stockholders 2019 equity of at december 31 , 2012 is $ 816922
+  [5] the inventories of at december 31 , 2016 is 917491 ; the inventories of at december 31 , 2015 is 783031 ; the inventories of at december 31 , 2014 is 536714 ; the inventories of at december 31 , 2013 is 469006 ; the inventories of at december 31 , 2012 is 319286
+  [6] the working capital ( 1 ) of at december 31 , 2016 is 1279337 ; the working capital ( 1 ) of at december 31 , 2015 is 1019953 ; the working capital ( 1 ) of at december 31 , 2014 is 1127772 ; the working capital ( 1 ) of at december 31 , 2013 is 702181 ; the working capital ( 1 ) of at december 31 , 2012 is 651370
+  [7] other items on our consolidated financial statements have been appropriately adjusted from the amounts provided in the earnings release , including a reduction of our full year 2016 gross profit and income from operations by $ 2.9 million , and a reduction of net income by $ 1.7 million. .
+  [8] the cash and cash equivalents of at december 31 , 2016 is $ 250470 ; the cash and cash equivalents of at december 31 , 2015 is $ 129852 ; the cash and cash equivalents of at december 31 , 2014 is $ 593175 ; the cash and cash equivalents of at december 31 , 2013 is $ 347489 ; the cash and cash equivalents of at december 31 , 2012 is $ 341841
+  [9] ( in thousands ) | at december 31 , 2016 | at december 31 , 2015 | at december 31 , 2014 | at december 31 , 2013 | at december 31 , 2012
+
+================================================================================
+ITEM 30    id: ETR/2017/page_372.pdf-1
+QUESTION: what was the average net revenue between 2016 and 2017 in millions
+ANSWER GIVEN: 704.25
+MODEL'S OWN REASONING (judge against the passages, not this):
+Average = (705.4 + 703.1) ÷ 2  
+= 1408.5 ÷ 2  
+= 704.25  
+
+FINAL ANSWER: 704.25
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the 2016 net revenue of amount ( in millions ) is $ 705.4
+  [2] the 2017 net revenue of amount ( in millions ) is $ 703.1
+  [3] following is an analysis of the change in net revenue comparing 2017 to 2016 .
+  [4] net revenue 2017 compared to 2016 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory credits .
+  [5] the other of amount ( in millions ) is 2.4
+  [6] management 2019s financial discussion and analysis results of operations net income 2017 compared to 2016 net income increased $ 0.8 million primarily due to higher other income , lower other operation and maintenance expenses , and lower interest expense , substantially offset by higher depreciation and amortization expenses and a higher effective income tax rate .
+  [7] 2016 compared to 2015 net income increased $ 16.5 million primarily due to lower other operation and maintenance expenses , higher net revenues , and a lower effective income tax rate , partially offset by higher depreciation and amortization expenses .
+  [8] the retail electric price variance is primarily due to a $ 19.4 million net annual increase in rates , effective with the first billing cycle of july 2016 , and an increase in the energy efficiency rider , effective with the first billing cycle of february 2017 , each as approved by the mpsc .
+  [9] the increase was partially offset by decreased storm damage rider revenues due to resetting the storm damage provision to zero beginning with the november 2016 billing cycle .
+  [10] the retail electric price of amount ( in millions ) is 13.5
+
+================================================================================
+ITEM 31    id: JPM/2015/page_82.pdf-2
+QUESTION: what percentage of total net revenue in 2015 was net interest income?
+ANSWER GIVEN: 46.53%
+MODEL'S OWN REASONING (judge against the passages, not this):
+43510 ÷ 93543 = 0.4653  
+0.4653 × 100 = 46.53  
+
+FINAL ANSWER: 46.53%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the total net revenue of 2015 is $ 93543 ; the total net revenue of 2014 is $ 95112 ; the total net revenue of 2013 is $ 97367
+  [2] the net interest income of 2015 is 43510 ; the net interest income of 2014 is 43634 ; the net interest income of 2013 is 43319
+  [3] 2015 compared with 2014 total net revenue for 2015 was down by 2% ( 2 % ) compared with the prior year , predominantly driven by lower corporate private equity gains , lower cib revenue reflecting the impact of business simplification initiatives , and lower ccb mortgage banking revenue .
+  [4] the noninterest revenue of 2015 is 50033 ; the noninterest revenue of 2014 is 51478 ; the noninterest revenue of 2013 is 54048
+  [5] 2014 compared with 2013 total net revenue for 2014 was down by 2% ( 2 % ) compared with the prior year , predominantly due to lower mortgage fees and related income and lower other income .
+  [6] the firm 2019s average interest-earning assets were $ 2.1 trillion in 2015 , and the net interest yield on these assets , on a fully taxable- equivalent ( 201cfte 201d ) basis , was 2.14% ( 2.14 % ) , a decrease of 4 basis points from the prior year .
+  [7] net interest income was relatively flat compared with the prior year , as lower loan yields , lower investment securities net interest income , and lower trading asset balance and yields were offset by higher average loan balances and lower interest expense on deposits .
+  [8] the other income ( a ) of 2015 is 3032 ; the other income ( a ) of 2014 is 3013 ; the other income ( a ) of 2013 is 4608
+  [9] the card income of 2015 is 5924 ; the card income of 2014 is 6020 ; the card income of 2013 is 6022
+  [10] the mortgage fees and related income of 2015 is 2513 ; the mortgage fees and related income of 2014 is 3563 ; the mortgage fees and related income of 2013 is 5205
+
+================================================================================
+ITEM 32    id: IPG/2008/page_72.pdf-1
+QUESTION: what percentage of unrecognized tax benefits , in 2008 , is from tax benefits that would impact effective tax rate if recognized?
+ANSWER GIVEN: 88.6%
+MODEL'S OWN REASONING (judge against the passages, not this):
+131.8 ÷ 148.8 ≈ 0.886 → 0.886 × 100 ≈ 88.6%
+
+FINAL ANSWER: 88.6%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] included in the total amount of unrecognized tax benefits of $ 148.8 as of december 31 , 2008 , is $ 131.8 of tax benefits that , if recognized , would impact the effective tax rate and $ 17.1 of tax benefits that , if recognized , would result in adjustments to other tax accounts , primarily deferred taxes .
+  [2] tax authorities , we currently anticipate that the total unrecognized tax benefits will decrease by an amount between $ 45.0 and $ 55.0 in the next twelve months , a portion of which will affect the effective tax rate , primarily as a result of the settlement of tax examinations and the lapsing of statutes of limitation .
+  [3] 48 , accounting for uncertainty in income taxes ( 201cfin 48 201d ) , the following table summarizes the activity related to our unrecognized tax benefits: .
+  [4] in accordance with our accounting policy , interest and penalties accrued on unrecognized tax benefits are classified as income taxes in the consolidated statements of operations .
+  [5] in addition , during the second quarter of 2007 , there were net reversals of tax reserves , primarily related to previously unrecognized tax benefits related to various items of income and expense , including approximately $ 80.0 for certain worthless securities deductions associated with investments in consolidated subsidiaries , which was a result of the completion of the tax examination. .
+  [6] the increases as a result of tax positions taken during a prior year of 2008 is 22.8 ; the increases as a result of tax positions taken during a prior year of 2007 is 7.9
+  [7] the increases as a result of tax positions taken during the current year of 2008 is 18.7 ; the increases as a result of tax positions taken during the current year of 2007 is 19.7
+  [8] the decreases as a result of tax positions taken during a prior year of 2008 is -21.3 ( 21.3 ) ; the decreases as a result of tax positions taken during a prior year of 2007 is -156.3 ( 156.3 )
+  [9] it is not practicable to determine the amount of unrecognized deferred tax liability associated with these temporary differences .
+  [10] we have established tax reserves that we believe to be adequate in relation to the potential for additional assessments in each of the jurisdictions in which we are subject to taxation .
+
+================================================================================
+ITEM 33    id: GIS/2018/page_110.pdf-2
+QUESTION: what portion of the total noncancelable future lease commitments are due in fiscal year of 2019?
+ANSWER GIVEN: 24.6%
+MODEL'S OWN REASONING (judge against the passages, not this):
+The fiscal 2019 commitments are $137.4 M (operating) + $0.3 M (capital) = $137.7 M.  
+The total non‑cancelable future lease commitments are $559.3 M + $0.5 M = $559.8 M.  
+Portion for fiscal 2019 = $137.7 M ÷ $559.8 M ≈ 0.246 ≈ 24.6 %.
+
+FINAL ANSWER: 24.6%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the total noncancelable future lease commitments of operating leases is $ 559.3 ; the total noncancelable future lease commitments of capital leases is $ 0.5
+  [2] noncancelable future lease commitments are : in millions operating leases capital leases .
+  [3] the fiscal 2019 of operating leases is $ 137.4 ; the fiscal 2019 of capital leases is $ 0.3
+  [4] the fiscal 2021 of operating leases is 92.3 ; the fiscal 2021 of capital leases is -
+  [5] the after fiscal 2023 of operating leases is 91.2 ; the after fiscal 2023 of capital leases is -
+  [6] the fiscal 2022 of operating leases is 70.9 ; the fiscal 2022 of capital leases is -
+  [7] the fiscal 2023 of operating leases is 51.8 ; the fiscal 2023 of capital leases is -
+  [8] the fiscal 2020 of operating leases is 115.7 ; the fiscal 2020 of capital leases is 0.2
+  [9] the present value of obligations under capitalleases of capital leases is $ 0.3
+  [10] in addition , off-balance sheet arrangements are generally limited to the future payments under non-cancelable operating leases , which totaled $ 559.3 million as of may 27 , 2018 .
+
+================================================================================
+ITEM 34    id: FBHS/2017/page_83.pdf-2
+QUESTION: what was the percentage change in the weighted average fair value on the date of the award of the common stock
+ANSWER GIVEN: 10.6%
+MODEL'S OWN REASONING (judge against the passages, not this):
+Weighted‑average fair value 2016 = $57.37  
+Weighted‑average fair value 2017 = $63.43  
+
+Percentage change = (63.43 − 57.37) / 57.37 × 100%  
+= 6.06 / 57.37 × 100% ≈ 10.6%
+
+FINAL ANSWER: 10.6%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the fair value of each performance share award is based on the average of the high and low stock price on the date of grant .
+  [2] in 2017 , 2016 and 2015 , we awarded 15311 , 16471 and 19695 shares of company common stock to outside directors with a weighted average fair value on the date of the award of $ 63.43 , $ 57.37 and $ 46.21 , respectively .
+  [3] the granted of number of performance share awards is 160196 ; the granted of weighted-averagegrant-datefair value is 58.02
+  [4] compensation cost is expensed at the time of an award based on the fair value of a share at the date of the award .
+  [5] the fair value of performance share awards that vested during 2017 was $ 5.6 million ( 100580 shares ) .
+  [6] the forfeited of number of performance share awards is -58285 ( 58285 ) ; the forfeited of weighted-averagegrant-datefair value is 48.22
+  [7] the vested of number of performance share awards is -95183 ( 95183 ) ; the vested of weighted-averagegrant-datefair value is 45.13
+  [8] the number of performance share awards granted are shown below at the target award amounts : number of performance share awards weighted-average grant-date fair value .
+  [9] the non-vestedat december 31 2016 of number of performance share awards is 421600 ; the non-vestedat december 31 2016 of weighted-averagegrant-datefair value is $ 48.00
+  [10] performance awards performance share awards were granted to officers and certain employees of the company under the plans and represent the right to earn shares of company common stock based on the achievement of or company-wide performance conditions , including cumulative diluted earnings per share , average return on invested capital , average return on net tangible assets and ebitda during the three-year performance period .
+
+================================================================================
+ITEM 35    id: UNP/2011/page_33.pdf-4
+QUESTION: what was the change in millions of average equity from 2009 to 2010?
+ANSWER GIVEN: 1224
+MODEL'S OWN REASONING (judge against the passages, not this):
+17282 − 16058 = 1224  
+
+FINAL ANSWER: 1224
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the average equity of 2011 is $ 18171 ; the average equity of 2010 is $ 17282 ; the average equity of 2009 is $ 16058
+  [2] return on average common shareholders 2019 equity millions , except percentages 2011 2010 2009 .
+  [3] the return on average commonshareholders 2019 equity of 2011 is 18.1% ( 18.1 % ) ; the return on average commonshareholders 2019 equity of 2010 is 16.1% ( 16.1 % ) ; the return on average commonshareholders 2019 equity of 2009 is 11.8% ( 11.8 % )
+  [4] millions except percentages | 2011 | 2010 | 2009
+  [5] the net income of 2011 is $ 3292 ; the net income of 2010 is $ 2780 ; the net income of 2009 is $ 1890
+  [6] average rail car inventory decreased 3% ( 3 % ) in 2010 compared to 2009 , while we handled a 13% ( 13 % ) increase in carloads during the period compared to 2009 .
+  [7] gross and revenue-ton-miles increased 10% ( 10 % ) and 9% ( 9 % ) , respectively , in 2010 compared to 2009 due to a 13% ( 13 % ) increase in carloads .
+  [8] average rail car inventory decreased slightly in 2011 compared to 2010 , as we continued to adjust the size of our freight car fleet .
+  [9] efficiently leveraging volume increases , core pricing gains , and productivity initiatives drove the improvement in 2010 and more than offset the impact of higher fuel prices during the year .
+  [10] employee levels were down 1% ( 1 % ) in 2010 compared to 2009 despite a 13% ( 13 % ) increase in volume levels .
+
+================================================================================
+ITEM 36    id: DVN/2014/page_87.pdf-2
+QUESTION: what was the weighted value of the devon 2019s commercial paper borrowings as of december 31 , 2014 in millions
+ANSWER GIVEN: 4.1008
+MODEL'S OWN REASONING (judge against the passages, not this):
+Weighted value = $932 million × 0.44 % = $932 × 0.0044 = $4.1008 million  
+
+FINAL ANSWER: 4.1008
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] as of december 31 , 2014 , devon 2019s commercial paper borrowings of $ 932 million have a weighted- average borrowing rate of 0.44 percent .
+  [2] commercial paper devon has access to $ 3.0 billion of short-term credit under its commercial paper program .
+  [3] devon energy corporation and subsidiaries notes to consolidated financial statements 2013 ( continued ) debt maturities as of december 31 , 2014 , excluding premiums and discounts , are as follows ( in millions ) : .
+  [4] as of december 31 , 2014 , devon was in compliance with this covenant with a debt-to- capitalization ratio of 20.9 percent .
+  [5] amounts borrowed under the senior credit facility may , at the election of devon , bear interest at various fixed rate options for periods of up to twelve months .
+  [6] this covenant requires devon 2019s ratio of total funded debt to total capitalization , as defined in the credit agreement , to be no greater than 65 percent .
+  [7] commercial paper debt generally has a maturity of between 1 and 90 days , although it can have a maturity of up to 365 days , and bears interest at rates agreed to at the time of the borrowing .
+  [8] however , devon may elect to borrow at the prime rate .
+  [9] credit lines devon has a $ 3.0 billion syndicated , unsecured revolving line of credit ( the senior credit facility ) .
+  [10] retirement of senior notes on november 13 , 2014 , devon redeemed $ 1.9 billion of senior notes prior to their scheduled maturity , primarily with proceeds received from its asset divestitures .
+
+================================================================================
+ITEM 37    id: IPG/2008/page_72.pdf-4
+QUESTION: what percentage of balance of unrecognized tax benefits at the end of 2008 would impact the effective tax rate if recognized?
+ANSWER GIVEN: 88.6%
+MODEL'S OWN REASONING (judge against the passages, not this):
+131.8 ÷ 148.8 ≈ 0.886 → 88.6 %
+
+FINAL ANSWER: 88.6%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] included in the total amount of unrecognized tax benefits of $ 148.8 as of december 31 , 2008 , is $ 131.8 of tax benefits that , if recognized , would impact the effective tax rate and $ 17.1 of tax benefits that , if recognized , would result in adjustments to other tax accounts , primarily deferred taxes .
+  [2] tax authorities , we currently anticipate that the total unrecognized tax benefits will decrease by an amount between $ 45.0 and $ 55.0 in the next twelve months , a portion of which will affect the effective tax rate , primarily as a result of the settlement of tax examinations and the lapsing of statutes of limitation .
+  [3] in addition , during the second quarter of 2007 , there were net reversals of tax reserves , primarily related to previously unrecognized tax benefits related to various items of income and expense , including approximately $ 80.0 for certain worthless securities deductions associated with investments in consolidated subsidiaries , which was a result of the completion of the tax examination. .
+  [4] in accordance with our accounting policy , interest and penalties accrued on unrecognized tax benefits are classified as income taxes in the consolidated statements of operations .
+  [5] the increases as a result of tax positions taken during a prior year of 2008 is 22.8 ; the increases as a result of tax positions taken during a prior year of 2007 is 7.9
+  [6] the increases as a result of tax positions taken during the current year of 2008 is 18.7 ; the increases as a result of tax positions taken during the current year of 2007 is 19.7
+  [7] the balance at end of period of 2008 is $ 148.8 ; the balance at end of period of 2007 is $ 134.8
+  [8] the decreases as a result of tax positions taken during a prior year of 2008 is -21.3 ( 21.3 ) ; the decreases as a result of tax positions taken during a prior year of 2007 is -156.3 ( 156.3 )
+  [9] the balance at beginning of period of 2008 is $ 134.8 ; the balance at beginning of period of 2007 is $ 266.9
+  [10] 48 , accounting for uncertainty in income taxes ( 201cfin 48 201d ) , the following table summarizes the activity related to our unrecognized tax benefits: .
+
+================================================================================
+ITEM 38    id: FIS/2016/page_9.pdf-4
+QUESTION: what percent of total consolidated revenues in 2015 was the gfs segment?
+ANSWER GIVEN: 35.78%
+MODEL'S OWN REASONING (judge against the passages, not this):
+2360 ÷ 6596 = 0.3578  
+0.3578 × 100 = 35.78%
+
+FINAL ANSWER: 35.78%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the total consolidated revenues of 2016 is $ 9241 ; the total consolidated revenues of 2015 is $ 6596 ; the total consolidated revenues of 2014 is $ 6413
+  [2] the gfs of 2016 is 4250 ; the gfs of 2015 is 2360 ; the gfs of 2014 is 2198
+  [3] revenues by segment the table below summarizes our revenues by reporting segment ( in millions ) : .
+  [4] the corporate & other of 2016 is 425 ; the corporate & other of 2015 is 390 ; the corporate & other of 2014 is 536
+  [5] the ifs of 2016 is $ 4566 ; the ifs of 2015 is $ 3846 ; the ifs of 2014 is $ 3679
+  [6] the predictable nature of cash flows generated from this segment provides opportunities for further r investments in innovation , product integration , information and security , and compliance in a cost effective manner .
+  [7] clients in this segment include regional and community banks , credit unions and commercial lenders , as well as government institutions , merchants and other commercial organizations .
+  [8] this market is primarily served through integrated solutions and characterized by multi-year processing contracts that generate highly recurring revenues .
+  [9] integrated financial solutions ( "ifs" ) the ifs segment is focused primarily on serving the north american regional and community bank and savings institutions market for transaction and account processing , payment solutions , channel solutions , lending and wealth management solutions , digital channels , risk and compliance solutions , and services , capitalizing on the continuing trend to outsource these solutions .
+  [10] 2016 | 2015 | 2014
+
+================================================================================
+ITEM 39    id: AAL/2015/page_114.pdf-1
+QUESTION: as of december 312013 what was the percent of labor-related deemed claim as part of the total reorganization items net
+ANSWER GIVEN: 65.3%
+MODEL'S OWN REASONING (judge against the passages, not this):
+1733 ÷ 2655 ≈ 0.6526  
+0.6526 × 100 ≈ 65.3  
+
+FINAL ANSWER: 65.3%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the labor-related deemed claim ( 1 ) of december 31 2013 is $ 1733
+  [2] the total reorganization items net of december 31 2013 is $ 2655
+  [3] the following table summarizes the components included in reorganization items , net on the consolidated statement of operations for the year ended december 31 , 2013 ( in millions ) : december 31 .
+  [4] ( 1 ) in exchange for employees 2019 contributions to the successful reorganization , including agreeing to reductions in pay and benefits , the company agreed in the plan to provide each employee group a deemed claim , which was used to provide a distribution of a portion of the equity of the reorganized entity to those employees .
+  [5] each employee group received a deemed claim amount based upon a portion of the value of cost savings provided by that group through reductions to pay and benefits as well as through certain work rule changes .
+  [6] the total value of this deemed claim was approximately $ 1.7 billion .
+  [7] reorganization items , net reorganization items refer to revenues , expenses ( including professional fees ) , realized gains and losses and provisions for losses that are realized or incurred in the chapter 11 cases .
+  [8] as a result , during the year ended december 31 , 2013 , the company recorded reorganization charges to adjust estimated allowed claim amounts previously recorded on rejected special facility revenue bonds of $ 180 million , allowed general unsecured claims related to the 1990 and 1994 series of special facility revenue bonds that financed certain improvements at john f .
+  [9] a copy of the certificate of incorporation was attached as exhibit 3.1 to a current report on form 8-k filed by the company with the sec on december 9 , 2013 .
+  [10] ( 2 ) amounts include allowed claims ( claims approved by the bankruptcy court ) and estimated allowed claims relating to ( i ) the rejection or modification of financings related to aircraft and ( ii ) entry of orders treated as unsecured claims with respect to facility agreements supporting certain issuances of special facility revenue bonds .
+
+================================================================================
+ITEM 40    id: GS/2012/page_189.pdf-1
+QUESTION: in millions for 2012 and 2011 , what was the largest tier 1 capital amount?\\n
+ANSWER GIVEN: 20704
+MODEL'S OWN REASONING (judge against the passages, not this):
+The tier 1 capital amount is $20,704 million for 2012 and $19,251 million for 2011; the larger of the two is $20,704 million.
+
+FINAL ANSWER: 20704
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the tier 1 capital of as of december 2012 is $ 20704 ; the tier 1 capital of as of december 2011 is $ 19251
+  [2] the tier 1 capital ratio of as of december 2012 is 18.9% ( 18.9 % ) ; the tier 1 capital ratio of as of december 2011 is 17.1% ( 17.1 % )
+  [3] the tier 2 capital of as of december 2012 is $ 39 ; the tier 2 capital of as of december 2011 is $ 6
+  [4] the tier 1 leverage ratio of as of december 2012 is 17.6% ( 17.6 % ) ; the tier 1 leverage ratio of as of december 2011 is 18.5% ( 18.5 % )
+  [5] accordingly , for a period of time , gs bank usa is expected to maintain a tier 1 capital ratio of at least 8% ( 8 % ) , a total capital ratio of at least 11% ( 11 % ) and a tier 1 leverage ratio of at least 6% ( 6 % ) .
+  [6] $ in millions | as of december 2012 | as of december 2011
+  [7] the total capital of as of december 2012 is $ 20743 ; the total capital of as of december 2011 is $ 19257
+  [8] as noted in the table below , gs bank usa was in compliance with these minimum capital requirements as of december 2012 and december 2011 .
+  [9] the total capital ratio of as of december 2012 is 18.9% ( 18.9 % ) ; the total capital ratio of as of december 2011 is 17.1% ( 17.1 % )
+  [10] under the regulatory framework for prompt corrective action that is applicable to gs bank usa , in order to be considered a 201cwell-capitalized 201d depository institution , gs bank usa must maintain a tier 1 capital ratio of at least 6% ( 6 % ) , a total capital ratio of at least 10% ( 10 % ) and a tier 1 leverage ratio of at least 5% ( 5 % ) .
+
+================================================================================
+ITEM 41    id: AMT/2006/page_113.pdf-1
+QUESTION: in 2004 what was the percent of the change in the employee liability for employee separations
+ANSWER GIVEN: -70.3%
+MODEL'S OWN REASONING (judge against the passages, not this):
+Change = 665 − 2239 = ‑1574  
+Percent change = (‑1574 ÷ 2239) × 100 ≈ ‑70.3 %  
+
+FINAL ANSWER: -70.3%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the employee separations of liability as of january 1 2004 is $ 2239 ; the employee separations of 2004 expense is $ 823 ; the employee separations of 2004 cash payments is $ -2397 ( 2397 ) ; the employee separations of liability as of december 31 2004 is $ 665 ; the employee separations of 2005 expense is $ 84 ; the employee separations of 2005 cash payments is $ -448 ( 448 ) ; the employee separations of liability as of december 31 2005 is $ 301 ; the employee separations of 2006 expense is $ -267 ( 267 ) ; the employee separations of 2006 cash payments is $ -34 ( 34 ) ; the employee separations of liability as of december 31 2006 is $ 0
+  [2] the total of liability as of january 1 2004 is $ 3689 ; the total of 2004 expense is $ 692 ; the total of 2004 cash payments is $ -3285 ( 3285 ) ; the total of liability as of december 31 2004 is $ 1096 ; the total of 2005 expense is $ 96 ; the total of 2005 cash payments is $ -773 ( 773 ) ; the total of liability as of december 31 2005 is $ 419 ; the total of 2006 expense is $ -277 ( 277 ) ; the total of 2006 cash payments is $ -142 ( 142 ) ; the total of liability as of december 31 2006 is $ 0
+  [3] restructuring expense 2014the following table displays activity with respect to the accrued restructuring liability for the years ended december 31 , 2004 , 2005 and 2006 ( in thousands ) : liability as of january 1 , expense payments liability december 31 , expense payments liability december 31 , expense payments liability december 31 .
+  [4] the accrued restructuring liability is reflected in accounts payable and accrued expenses in the accompanying consolidated balance sheets as of december 31 , 2005 .
+  [5] the lease terminations and other facility closing costs of liability as of january 1 2004 is 1450 ; the lease terminations and other facility closing costs of 2004 expense is -131 ( 131 ) ; the lease terminations and other facility closing costs of 2004 cash payments is -888 ( 888 ) ; the lease terminations and other facility closing costs of liability as of december 31 2004 is 431 ; the lease terminations and other facility closing costs of 2005 expense is 12 ; the lease terminations and other facility closing costs of 2005 cash payments is -325 ( 325 ) ; the lease terminations and other facility closing costs of liability as of december 31 2005 is 118 ; the lease terminations and other facility closing costs of 2006 expense is -10 ( 10 ) ; the lease terminations and other facility closing costs of 2006 cash payments is -108 ( 108 ) ; the lease terminations and other facility closing costs of liability as of december 31 2006 is 0
+  [6] liability as of january 1 2004 | 2004 expense | 2004 cash payments | liability as of december 31 2004 | 2005 expense | 2005 cash payments | liability as of december 31 2005 | 2006 expense | 2006 cash payments | liability as of december 31 2006
+  [7] upon exercise of these options , the holders received 4428 shares of atc south america , net of 1596 shares retained by the company to satisfy employee tax withholding obligations .
+  [8] as a result , the company recorded net losses and impairments of approximately $ 2.0 million , $ 16.8 million and $ 17.7 million for the years ended december 31 , 2006 , 2005 and 2004 , respectively .
+  [9] impairments , net loss on sale of long-lived assets , restructuring and merger related expense the significant components reflected in impairments , net loss on sale of long-lived assets , restructuring and merger related expense in the accompanying consolidated statements of operations include the following : impairments and net loss on sale of long-lived assets 2014during the years ended december 31 , 2006 , 2005 and 2004 , the company recorded impairments and net loss on sale of long-lived assets ( primarily related to its rental and management segment ) of $ 3.0 million , $ 19.1 million and $ 22.3 million , respectively .
+  [10] 2022 construction-in-progress impairment charges 2014for the years ended december 31 , 2006 , 2005 and 2004 , the company wrote-off approximately $ 1.0 million , $ 2.3 million and $ 4.6 million , respectively , of construction-in-progress costs , primarily associated with sites that it no longer planned to build .
+
+================================================================================
+ITEM 42    id: RSG/2012/page_93.pdf-2
+QUESTION: what was the percentage change in the additions charged to expense from 2011 to 2012 as part of the allowance for doubtful accounts
+ANSWER GIVEN: 41.43%
+MODEL'S OWN REASONING (judge against the passages, not this):
+29.7 − 21.0 = 8.7  
+8.7 ÷ 21.0 = 0.4143  
+0.4143 × 100 = 41.43 %  
+
+FINAL ANSWER: 41.43%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the additions charged to expense of 2012 is 29.7 ; the additions charged to expense of 2011 is 21.0 ; the additions charged to expense of 2010 is 23.6
+  [2] we establish an allowance for doubtful accounts based on various factors including the credit risk of specific customers , age of receivables outstanding , historical trends , economic conditions and other information .
+  [3] past due receivable balances are written-off when our collection efforts have been unsuccessful in collecting amounts the following table reflects the activity in our allowance for doubtful accounts for the years ended december 31 , 2012 , 2011 and 2010: .
+  [4] accounts receivable , net of allowance for doubtful accounts accounts receivable represent receivables from customers for collection , transfer , recycling , disposal and other services .
+  [5] the carrying value of our receivables , net of the allowance for doubtful accounts , represents their estimated net realizable value .
+  [6] provisions for doubtful accounts are evaluated on a monthly basis and are recorded based on our historical collection experience , the age of the receivables , specific customer information and economic conditions .
+  [7] the accounts written-off of 2012 is -32.5 ( 32.5 ) ; the accounts written-off of 2011 is -23.8 ( 23.8 ) ; the accounts written-off of 2010 is -27.9 ( 27.9 )
+  [8] the balance at beginning of year of 2012 is $ 48.1 ; the balance at beginning of year of 2011 is $ 50.9 ; the balance at beginning of year of 2010 is $ 55.2
+  [9] no customer exceeded 5% ( 5 % ) of our outstanding accounts receivable balance at december 31 , 2012 and 2011 .
+  [10] the balance at end of year of 2012 is $ 45.3 ; the balance at end of year of 2011 is $ 48.1 ; the balance at end of year of 2010 is $ 50.9
+
+================================================================================
+ITEM 43    id: PNC/2012/page_65.pdf-1
+QUESTION: what percentage of the total carrying amount of investment securities is the securities held to maturity?
+ANSWER GIVEN: 16.94%
+MODEL'S OWN REASONING (judge against the passages, not this):
+10.4 ÷ 61.4 ≈ 0.1694 → 16.94 %  
+
+FINAL ANSWER: 16.94%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the carrying amount of investment securities totaled $ 61.4 billion at december 31 , 2012 , which was made up of $ 51.0 billion of securities available for sale carried at fair value and $ 10.4 billion of securities held to maturity carried at amortized cost .
+  [2] the total securities held to maturity of december 31 2012 amortized cost is 10354 ; the total securities held to maturity of december 31 2012 fair value is 10860 ; the total securities held to maturity of december 31 2012 amortized cost is 12066 ; the total securities held to maturity of fair value is 12450
+  [3] comparably , at december 31 , 2011 , the carrying value of investment securities totaled $ 60.6 billion of which $ 48.6 billion represented securities available for sale carried at fair value and $ 12.0 billion of securities held to maturity carried at amortized cost .
+  [4] investment securities table 11 : details of investment securities .
+  [5] the remainder of securities available for sale were debt securities .
+  [6] investment securities represented 20% ( 20 % ) of total assets at december 31 , 2012 and 22% ( 22 % ) at december 31 , 2011 .
+  [7] the total securities available for sale ( a ) of december 31 2012 amortized cost is $ 49447 ; the total securities available for sale ( a ) of december 31 2012 fair value is $ 51052 ; the total securities available for sale ( a ) of december 31 2012 amortized cost is $ 48609 ; the total securities available for sale ( a ) of fair value is $ 48568
+  [8] the total securities of december 31 2012 amortized cost is $ 59801 ; the total securities of december 31 2012 fair value is $ 61912 ; the total securities of december 31 2012 amortized cost is $ 60675 ; the total securities of fair value is $ 61018
+  [9] the fair value of investment securities is impacted by interest rates , credit spreads , market volatility and liquidity conditions .
+  [10] treasury and government agencies , agency residential mortgage-backed and agency commercial mortgage-backed securities collectively represented 59% ( 59 % ) of the investment securities portfolio at december 31 , 2012 .
+
+================================================================================
+ITEM 44    id: UNP/2009/page_35.pdf-2
+QUESTION: what will 2010 operating ratio be if the average 2009 and 2008 increases occur in 2009?
+ANSWER GIVEN: 74.7%
+MODEL'S OWN REASONING (judge against the passages, not this):
+The operating ratio fell by 1.3 percentage points from 2008 to 2009 (77.3 → 76.0).  
+If the same 1.3‑point improvement occurs again in 2009 to 2010, subtract 1.3 from the 2009 ratio:  
+76.0 − 1.3 = 74.7  
+
+FINAL ANSWER: 74.7%
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] the operating ratio of 2009 is 76.0 ; the operating ratio of 2008 is 77.3 ; the operating ratio of 2007 is 79.3 ; the operating ratio of % (  % ) change 2009 v 2008 is ( 1.3 ) pt ; the operating ratio of % (  % ) change 2008 v 2007 is ( 2.0 ) pt
+  [2] the employees ( average ) of 2009 is 43531 ; the employees ( average ) of 2008 is 48242 ; the employees ( average ) of 2007 is 50089 ; the employees ( average ) of % (  % ) change 2009 v 2008 is ( 10 ) % (  % ) ; the employees ( average ) of % (  % ) change 2008 v 2007 is ( 4 ) % (  % )
+  [3] our operating ratios improved 1.3 points to 76.0% ( 76.0 % ) in 2009 and 2.0 points to 77.3% ( 77.3 % ) in 2008 .
+  [4] operating/performance statistics included in the table below are railroad performance measures reported to the aar : 2009 2008 2007 % (  % ) change 2009 v 2008 % (  % ) change 2008 v 2007 .
+  [5] 2009 | 2008 | 2007 | % (  % ) change 2009 v 2008 | % (  % ) change 2008 v 2007
+  [6] operating ratio 2013 operating ratio is defined as our operating expenses as a percentage of operating revenue .
+  [7] lower volume levels , ongoing network management initiatives , and productivity improvements contributed to 16% ( 16 % ) and 8% ( 8 % ) improvements in average train speed in 2009 and 2008 , respectively .
+  [8] the average rail car inventory ( thousands ) of 2009 is 283.1 ; the average rail car inventory ( thousands ) of 2008 is 300.7 ; the average rail car inventory ( thousands ) of 2007 is 309.9 ; the average rail car inventory ( thousands ) of % (  % ) change 2009 v 2008 is ( 6 ) % (  % ) ; the average rail car inventory ( thousands ) of % (  % ) change 2008 v 2007 is ( 3 ) % (  % )
+  [9] the customer satisfaction index of 2009 is 88 ; the customer satisfaction index of 2008 is 83 ; the customer satisfaction index of 2007 is 79 ; the customer satisfaction index of % (  % ) change 2009 v 2008 is 5 pt ; the customer satisfaction index of % (  % ) change 2008 v 2007 is 4 pt
+  [10] the average train speed ( miles per hour ) of 2009 is 27.3 ; the average train speed ( miles per hour ) of 2008 is 23.5 ; the average train speed ( miles per hour ) of 2007 is 21.8 ; the average train speed ( miles per hour ) of % (  % ) change 2009 v 2008 is 16 % (  % ) ; the average train speed ( miles per hour ) of % (  % ) change 2008 v 2007 is 8 % (  % )
+
+================================================================================
+ITEM 45    id: GS/2018/page_69.pdf-1
+QUESTION: what are the total market making revenues in the consolidated statements of earnings of 2017 , in billions?
+ANSWER GIVEN: 7.66
+MODEL'S OWN REASONING (judge against the passages, not this):
+FINAL ANSWER: 7.66
+PASSAGES THE ANSWER WAS BASED ON:
+  [1] market making revenues in the consolidated statements of earnings were $ 9.45 billion for 2018 , 23% ( 23 % ) higher than 2017 , due to significantly higher revenues in equity products , interest rate products and commodities .
+  [2] market making revenues in the consolidated statements of earnings were $ 7.66 billion for 2017 , 23% ( 23 % ) lower than 2016 , due to significantly lower revenues in commodities , currencies , credit products , interest rate products and equity derivative products .
+  [3] 2017 versus 2016 net revenues in the consolidated statements of earnings were $ 32.73 billion for 2017 , 6% ( 6 % ) higher than 2016 , due to significantly higher other principal transactions revenues , and higher investment banking revenues , investment management revenues and net interest income .
+  [4] investment banking revenues in the consolidated statements of earnings were $ 7.37 billion for 2017 , 18% ( 18 % ) higher than 2016 .
+  [5] investment management revenues in the consolidated statements of earnings were $ 5.80 billion for 2017 , 7% ( 7 % ) higher than 2016 , due to higher management and other fees , reflecting higher average assets under supervision , and higher transaction revenues .
+  [6] other principal transactions revenues in the consolidated statements of earnings were $ 5.91 billion for 2017 , 75% ( 75 % ) higher than 2016 , primarily reflecting a significant increase in net gains from private equities , which were positively impacted by company-specific events and corporate performance .
+  [7] commissions and fees in the consolidated statements of earnings were $ 3.05 billion for 2017 , 5% ( 5 % ) lower than 2016 , reflecting a decline in our listed cash equity volumes in the u.s .
+  [8] other principal transactions revenues in the consolidated statements of earnings were $ 5.82 billion for 2018 , 2% ( 2 % ) lower than 2017 , reflecting net losses from investments in public equities compared with net gains in the prior year , partially offset by significantly higher net gains from investments in private equities , driven by company-specific events , including sales , and corporate performance .
+  [9] and subsidiaries management 2019s discussion and analysis commissions and fees in the consolidated statements of earnings were $ 3.20 billion for 2018 , 5% ( 5 % ) higher than 2017 , reflecting an increase in our listed cash equity and futures volumes , generally consistent with market volumes .
+  [10] net interest income in the consolidated statements of earnings was $ 3.77 billion for 2018 , 28% ( 28 % ) higher than 2017 , reflecting an increase in interest income primarily due to the impact of higher interest rates on collateralized agreements , other interest-earning assets and deposits with banks , increases in total average loans receivable and financial instruments owned , and higher yields on financial instruments owned and loans receivable .
+
